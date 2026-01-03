@@ -1,0 +1,943 @@
+@2=~Crystalline Torque~
+@3=~The Crystalline Torque is an elegant necklace, delicately wrought from silver and adorned with a single shimmering crystal. The crystal, nestled within a filigree of fine silverwork, emanates a soft, pulsating glow that seems to synchronize with the wearer's heartbeat. Adorning the amulet bestows the wearer with a heightened sense of focus and mental dexterity, by creating a harmonious blend that resonates with ones inner clarity.
+
+STATISTICS:
+
+Equipped abilities:
+- Intelligence: +1
+- Armor Class: +1
+- Saving Throws: +1
+- Magic Resistance: +5%
+- Can memorize 1 extra 1st-5th level spell
+
+Weight: 0~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@4=~Acid Arrow +2~
+@5=~This finely crafted arrow is coated with a potent acid that clings to its shaft and tip. Upon striking its target, the acid immediately begins to eat away at flesh and armor alike, deepening and enlarging the wound in a gruesome manner. The arrow’s impact is not merely physical but also chemical, ensuring a slow and painful demise for its victims.
+
+STATISTICS:
+
+THAC0: +2
+Damage: 1d6+2, +2d6 acid
+Damage Type: Missile
+Launcher: Bow
+
+Weight: 0~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@6=~Blackjack~
+@7=~The blackjack is a favored tool among the Gorgon's Eye thieves guild. A weighted leather strap tightly belted around a wooden bat, it is used to deliver swift and silent knockout blows to unsuspecting victims.
+
+Combat abilities:
+- Deals non-lethal damage
+
+STATISTICS:
+
+Damage: 1d3
+Damage Type: Crushing
+Speed Factor: 2
+Proficiency Type: Club
+Type: One-handed
+Requires:
+ 3 Strength
+
+Weight: 0~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@8=~Bolt of Acid +1~
+@9=~This crossbow bolt has been meticulously treated with a drop of scorpion venom, enhancing its lethality. Upon impact, the venom seeps into the wound, causing excruciating pain and paralysis. The bolt is designed to deliver a swift, silent death, making it ideal for assassins.
+STATISTICS:
+
+THAC0: +1
+Damage: 1d8+1, +1d8 acid
+Damage Type: Missile
+Launcher: Crossbow
+
+Weight: 0~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@10=~Bolt of Acid +2~
+@11=~This enhanced bolt is a fearsome creation, infused with the deadly venoms of both scorpions and snakes. When it strikes, it delivers a dual dose of poison, causing severe internal damage and rapid deterioration of the victim’s flesh.
+
+STATISTICS:
+
+THAC0: +2
+Damage: 2d8+2, +2d8 acid
+Damage Type: Missile
+Launcher: Crossbow
+
+Weight: 0~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@12=~The Thief's Compendium~
+@13=~The Thief's Compendium is a series of well-established documentation meant for both professional and fledgling thieves. Written by the followers of Mask, the Lord of Shadows, it is used as a reference for all essential and traditional skills a thief may need to call upon while engaging in their typical activities. These tomes are infused with powerful enchantments by the priests of Mask, rendering them indecipherable to any but those who walk in shadows. Only a true thief, attuned to the ways of Mask, can unlock the secrets held within their pages. This particular section contains details on how to build immunities to various poisons that are commonly used by assassins.
+
+STATISTICS:
+
+Constitution: Raised by 1 point permanently
+
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Weight: 25~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@14=~The Thief's Compendium is a series of well-established documentation meant for both professional and fledgling thieves. Written by the followers of Mask, the Lord of Shadows, it is used as a reference for all essential and traditional skills a thief may need to call upon while engaging in their typical activities. These tomes are infused with powerful enchantments by the priests of Mask, rendering them indecipherable to any but those who walk in shadows. Only a true thief, attuned to the ways of Mask, can unlock the secrets held within their pages. This particular section contains details on how to effectively increase ones endurance, allowing rogues to stay in a single position for hours awaiting their prey.
+
+STATISTICS:
+
+Strength: Raised by 1 point permanently
+
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Weight: 25~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@15=~The Thief's Compendium is a series of well-established documentation meant for both professional and fledgling thieves. Written by the followers of Mask, the Lord of Shadows, it is used as a reference for all essential and traditional skills a thief may need to call upon while engaging in their typical activities. These tomes are infused with powerful enchantments by the priests of Mask, rendering them indecipherable to any but those who walk in shadows. Only a true thief, attuned to the ways of Mask, can unlock the secrets held within their pages. This particular section contains details on many different sleight of hand techniques and maneuvers.
+
+STATISTICS:
+
+Dexterity: Raised by 1 point permanently
+
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Weight: 25~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@16=~The Thief's Compendium is a series of well-established documentation meant for both professional and fledgling thieves. Written by the followers of Mask, the Lord of Shadows, it is used as a reference for all essential and traditional skills a thief may need to call upon while engaging in their typical activities. These tomes are infused with powerful enchantments by the priests of Mask, rendering them indecipherable to any but those who walk in shadows. Only a true thief, attuned to the ways of Mask, can unlock the secrets held within their pages. This particular section contains details on a wide array of topics meant to prepare a thief to work comfortably in any type of setting.
+
+STATISTICS:
+
+Intelligence: Raised by 1 point permanently
+
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Weight: 25~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@17=~The Thief's Compendium is a series of well-established documentation meant for both professional and fledgling thieves. Written by the followers of Mask, the Lord of Shadows, it is used as a reference for all essential and traditional skills a thief may need to call upon while engaging in their typical activities. These tomes are infused with powerful enchantments by the priests of Mask, rendering them indecipherable to any but those who walk in shadows. Only a true thief, attuned to the ways of Mask, can unlock the secrets held within their pages. This particular section contains details on the art of tact and persuasion.
+
+STATISTICS:
+
+Charisma: Raised by 1 point permanently
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Weight: 25~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@18=~The Thief's Compendium is a series of well-established documentation meant for both professional and fledgling thieves. Written by the followers of Mask, the Lord of Shadows, it is used as a reference for all essential and traditional skills a thief may need to call upon while engaging in their typical activities. These tomes are infused with powerful enchantments by the priests of Mask, rendering them indecipherable to any but those who walk in shadows. Only a true thief, attuned to the ways of Mask, can unlock the secrets held within their pages. This particular section contains details of notable thieves throughout history, covering their use of judgement and best practices of their time.
+
+STATISTICS:
+
+Wisdom: Raised by 1 point permanently
+
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Weight: 25~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@19=~The Thief's Compendium is a series of well-established documentation meant for both professional and fledgling thieves. Written by the followers of Mask, the Lord of Shadows, it is used as a reference for all essential and traditional skills a thief may need to call upon while engaging in their typical activities. These tomes are infused with powerful enchantments by the priests of Mask, rendering them indecipherable to any but those who walk in shadows. Only a true thief, attuned to the ways of Mask, can unlock the secrets held within their pages. This particular section contains details on the proper use of both physical and mental evasion.
+
+STATISTICS:
+
+Armor Class: Adds +1 bonus permanently
+Saving Throws: Adds +1 bonus permanently
+
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Weight: 10~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@20=~The Thief's Compendium is a series of well-established documentation meant for both professional and fledgling thieves. Written by the followers of Mask, the Lord of Shadows, it is used as a reference for all essential and traditional skills a thief may need to call upon while engaging in their typical activities. These tomes are infused with powerful enchantments by the priests of Mask, rendering them indecipherable to any but those who walk in shadows. Only a true thief, attuned to the ways of Mask, can unlock the secrets held within their pages. This particular section contains details on different creatures weak points and how to strike them more efficiently.
+
+STATISTICS:
+
+THAC0: Adds +1 bonus permanently
+Damage: Adds +1 bonus permanently
+
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Weight: 10~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@21=~The Thief's Compendium is a series of well-established documentation meant for both professional and fledgling thieves. Written by the followers of Mask, the Lord of Shadows, it is used as a reference for all essential and traditional skills a thief may need to call upon while engaging in their typical activities. These tomes are infused with powerful enchantments by the priests of Mask, rendering them indecipherable to any but those who walk in shadows. Only a true thief, attuned to the ways of Mask, can unlock the secrets held within their pages. This particular section contains details on how to resist different magical effects through the use of mental tricks.
+
+STATISTICS:
+
+Magic Resistance: Raised by 5% permanently
+
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Weight: 10~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@22=~The Thief's Compendium is a series of well-established documentation meant for both professional and fledgling thieves. Written by the followers of Mask, the Lord of Shadows, it is used as a reference for all essential and traditional skills a thief may need to call upon while engaging in their typical activities. These tomes are infused with powerful enchantments by the priests of Mask, rendering them indecipherable to any but those who walk in shadows. Only a true thief, attuned to the ways of Mask, can unlock the secrets held within their pages. This particular section contains details on how to train your mind and body to resist and overcome physical pain.
+
+STATISTICS:
+
+Crushing Resistance: Raised by 5% permanently
+Slashing Resistance: Raised by 5% permanently
+Piercing Resistance: Raised by 5% permanently
+Missile Resistance: Raised by 5% permanently
+
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Weight: 10~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@23=~The Thief's Compendium is a series of well-established documentation meant for both professional and fledgling thieves. Written by the followers of Mask, the Lord of Shadows, it is used as a reference for all essential and traditional skills a thief may need to call upon while engaging in their typical activities. These tomes are infused with powerful enchantments by the priests of Mask, rendering them indecipherable to any but those who walk in shadows. Only a true thief, attuned to the ways of Mask, can unlock the secrets held within their pages. This particular section contains details on how to train your mind and body to resist the natural elements of the world.
+
+STATISTICS:
+
+Cold Resistance: Raised by 5% permanently
+Fire Resistance: Raised by 5% permanently
+Electricity Resistance: Raised by 5% permanently
+Acid Resistance: Raised by 5% permanently
+Poison Resistance: Raised by 5% permanently
+
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Weight: 10~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@24=~The Thief's Compendium is a series of well-established documentation meant for both professional and fledgling thieves. Written by the followers of Mask, the Lord of Shadows, it is used as a reference for all essential and traditional skills a thief may need to call upon while engaging in their typical activities. These tomes are infused with powerful enchantments by the priests of Mask, rendering them indecipherable to any but those who walk in shadows. Only a true thief, attuned to the ways of Mask, can unlock the secrets held within their pages. This particular section contains details on how to effectively locate and strike an enemy's weak spot while remaining unseen.
+
+STATISTICS:
+
+Backstab Multiplier: Raised by 1 permanently
+
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Weight: 10~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@25=~The Thief's Compendium is a series of well-established documentation meant for both professional and fledgling thieves. Written by the followers of Mask, the Lord of Shadows, it is used as a reference for all essential and traditional skills a thief may need to call upon while engaging in their typical activities. These tomes are infused with powerful enchantments by the priests of Mask, rendering them indecipherable to any but those who walk in shadows. Only a true thief, attuned to the ways of Mask, can unlock the secrets held within their pages. This particular section contains details about the different tools and techniques used in the art of lockpicking.
+
+STATISTICS:
+
+Open Locks: Raised by 10% permanently
+
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Weight: 5~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@26=~The Thief's Compendium is a series of well-established documentation meant for both professional and fledgling thieves. Written by the followers of Mask, the Lord of Shadows, it is used as a reference for all essential and traditional skills a thief may need to call upon while engaging in their typical activities. These tomes are infused with powerful enchantments by the priests of Mask, rendering them indecipherable to any but those who walk in shadows. Only a true thief, attuned to the ways of Mask, can unlock the secrets held within their pages. This particular section contains details on how to spot, disarm and set many different types of traps.
+
+STATISTICS:
+
+Find Traps: Raised by 10% permanently
+Set Traps: Raised by 10% permanently
+
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Weight: 5~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@27=~The Thief's Compendium is a series of well-established documentation meant for both professional and fledgling thieves. Written by the followers of Mask, the Lord of Shadows, it is used as a reference for all essential and traditional skills a thief may need to call upon while engaging in their typical activities. These tomes are infused with powerful enchantments by the priests of Mask, rendering them indecipherable to any but those who walk in shadows. Only a true thief, attuned to the ways of Mask, can unlock the secrets held within their pages. This particular section contains details on different sleight of hand and pickpocketing techniques meant to keep marks unaware and distracted.
+
+STATISTICS:
+
+Pick Pockets: Raised by 10% permanently
+
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Weight: 5~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@28=~The Thief's Compendium is a series of well-established documentation meant for both professional and fledgling thieves. Written by the followers of Mask, the Lord of Shadows, it is used as a reference for all essential and traditional skills a thief may need to call upon while engaging in their typical activities. These tomes are infused with powerful enchantments by the priests of Mask, rendering them indecipherable to any but those who walk in shadows. Only a true thief, attuned to the ways of Mask, can unlock the secrets held within their pages. This particular section contains details regarding stealth and how to be better remain hidden from sight and sound.
+
+STATISTICS:
+
+Move Silently: Raised by 10% permanently
+Hide In Shadows: Raised by 10% permanently
+
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Weight: 5~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@29=~The Thief's Compendium is a series of well-established documentation meant for both professional and fledgling thieves. Written by the followers of Mask, the Lord of Shadows, it is used as a reference for all essential and traditional skills a thief may need to call upon while engaging in their typical activities. These tomes are infused with powerful enchantments by the priests of Mask, rendering them indecipherable to any but those who walk in shadows. Only a true thief, attuned to the ways of Mask, can unlock the secrets held within their pages. This particular section contains details on how to detect and distinguish illusions from reality.
+
+STATISTICS:
+
+Detect Illusion: Raised by 10% permanently
+
+Special: The book is consumed upon use
+Usage: Place into quick item slot
+
+Weight: 5~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@30=~Bullet of Acid +1~
+@31=~These bullets are forged from hardened snake venom, creating a small but deadly projectile. Upon impact, the venomous material begins to dissolve, causing severe damage to the target's internal organs. The bullets are lightweight, allowing for swift and silent attacks.
+
+STATISTICS:
+
+THAC0: +1
+Damage: 1d4+1, +1d6 acid
+Damage Type: Missile
+Launcher: Sling
+
+Weight: 0~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@32=~Bullet of Acid +2~
+@33=~An even more lethal variant of acid bullets, made from hardened snake venom, but with an added corrosive agent that can pierce through most defenses. The acid within these bullets is so potent that it begins to dissolve flesh and bone upon contact, making them exceptionally deadly.
+
+STATISTICS:
+
+THAC0: +2
+Damage: 1d4+2, +2d6 acid
+Damage Type: Missile
+Launcher: Sling
+
+Weight: 0~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@34=~Dagger~
+@35=~Acid Kukri +1~
+@36=~The typical dagger has a pointed, usually double-edged blade, as opposed to a knife, which has a single edge and is a bit shorter.
+
+STATISTICS:
+
+Damage: 1d4 (piercing)
+Speed Factor: 2
+Proficiency Type: Dagger
+Type: One-handed
+Requires:
+ 3 Strength
+
+Weight: 1~
+@37=~Although similiar a dagger, the kukri is used for more swift and effective slashing movements due to its uniquely desgined curvature. It is an exquisite weapon crafted by the skilled hands of the renowned Elven smiths of Evereska. Its blade gleams with an ethereal greenish tint, a testament to both its Elven craftsmanship and the arcane enchantments woven into its steel.
+
+STATISTICS:
+
+Combat abilities:
+- Each hit causes 1 point of acid damage per round for 3 rounds
+
+THAC0: +1
+Damage: 1d4+1, +1 acid
+Damage Type: Slashing
+Speed Factor: 1
+Proficiency Type: Dagger
+Type: One-handed
+Requires:
+ 5 Strength
+
+Weight: 3~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@38=~Acid Kukri +2~
+@39=~Although similiar a dagger, the kukri is used for more swift and effective slashing movements due to its uniquely desgined curvature. It is an exquisite weapon crafted by the skilled hands of the renowned Elven smiths of Evereska. Its blade gleams with an ethereal greenish tint, a testament to both its Elven craftsmanship and the arcane enchantments woven into its steel. This weapon has been modified by the alchemist Rhade, who further enhanced the potency of the acid that coats the blade.
+
+STATISTICS:
+
+Combat abilities:
+- Each hit causes 1 point of acid damage every 1/2 round for a total of 3 rounds
+
+THAC0: +2
+Damage: 1d4+2, +2 acid
+Damage Type: Slashing
+Speed Factor: 0
+Proficiency Type: Dagger
+Type: One-handed
+Requires:
+ 5 Strength
+
+Weight: 3~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@34=~Dagger~
+@40=~Dagger +2: Snake Venom~
+@36=~The typical dagger has a pointed, usually double-edged blade, as opposed to a knife, which has a single edge and is a bit shorter.
+
+STATISTICS:
+
+Damage: 1d4 (piercing)
+Speed Factor: 2
+Proficiency Type: Dagger
+Type: One-handed
+Requires:
+ 3 Strength
+
+Weight: 1~
+@41=~This weapon is a lethal instrument, its blade glinting with a malevolent sheen. Originally known as the Dagger of Venom, a favored tool of assassins and spies within the Shadow Thieves, this weapon has been meticulously altered over the years to embody the nefarious legacy of Baldwin "The Butcher" Glendale. Under his employ in the Shadow Thieves, Glendale kept a sinister menagerie of dangerous serpents, routinely extracting their venom to coat his weapons. This dagger stands as a testament to the countless applications of this deadly concoction.
+
+STATISTICS:
+
+Combat abilities:
+- Each hit causes 2 points of poison damage per second for a total of 12 seconds (save vs. poison)
+
+THAC0: +2
+Damage: 1d4+2, +2 poison
+Damage Type: Piercing
+Speed Factor: 0
+Proficiency Type: Dagger
+Type: One-handed
+Requires:
+ 3 Strength
+
+Weight: 2~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@42=~Kerykeion: Medusa's Bite~
+@43=~This dart was made using a fragment of the Kerykeion, giving it unique and terrifying powers. It has the essence of the Gorgon Sister Medusa flowing through it. It's shape resembles that of a sharp fang. Whenever this weapon is thrown it will magically return back to the user.
+
+STATISTICS:
+
+Combat abilities:
+- Each hit causes 1 point of poison damage every 2 seconds for a total of 12 seconds (save vs. poison)
+- 5% chance to stun target for 1 round (save vs. spell)
+- Returns to the wielder's hand when thrown
+
+THAC0: +2
+Damage: 1d3+2, +2 acid
+Damage Type: Missile
+Speed Factor: 0
+Proficiency Type: Dart
+Type: One-handed
+
+Weight: 2~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@44=~Dart of Acid +2~
+@45=~These darts are forged from the teeth and sinews of a black dragon, with the heads dissolving into deadly acid upon impact. Each dart is coated with an extra layer of corrosive acid, ensuring maximum damage and suffering for its target.
+
+STATISTICS:
+
+THAC0: +2
+Damage: 1d3+2, 2d6 acid (save vs. spell)
+Damage Type: Missile
+Speed Factor: 1
+Proficiency Type: Dart
+Type: One-handed
+
+Weight: 0~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@46=~Cowl of Shadows~
+@47=~Magics, potions and alchemy were used to alter the shape and material of a variety of magical items to create this cowl. While worn, it sharpens the users eyesight to a state of near perfection. Illusions become revealed to you as mere parlor tricks and enemies become clear and visible no matter the time of night.
+
+STATISTICS:
+
+Charge abilities:
+- May cast Invisibility once per day
+
+Equipped abilities:
+- Infravision up to 120 ft.
+- Hide in Shadows: +15%
+- Detect Illusion: +15%
+
+Weight: 2~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@48=~Broken Kerykeion Piece~
+@49=~This is fragment of the Kerykeion, a legendary staff forged in the Underworld by the enigmatic Gorgon Sisters. It found its way to Faerun during the tumultuous Time of Troubles.
+
+Weight: 1~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@50=~Precious Gem~
+@51=~A rare and valuable looking diamond.
+
+Weight: 0~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@52=~Gerard's Necklace~
+@53=~This heirloom belongs to the Travenhurst family.
+
+Weight: 1~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@54=~Chunk of Metal~
+@55=~Ogre Blade~
+@56=~A massive piece of metal that vaguely resembles the shape of a sword.
+
+Weight: 10~
+@57=~This gigantic looking blade was forged by the Ogre, yet its form is too irregular and unrefined to be acknowledged as a sword. In its current state this weapon is unusable.
+
+Weight: 10~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@58=~Black Lotus~
+@59=~A potent poison that has sedative and hallucinogenic properties when taken in low doses.
+
+Weight: 1~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@60=~Shadow Thief Reports~
+@61=~These documents are written in code presumably only decipherable by members of the Shadow Thieves. These are sure to be of interest to Baldwin.
+
+Weight: 1~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@62=~Vapula's Pendant~
+@63=~This is Vapula Simberg's personal pendant.
+
+Weight: 1~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@64=~Europea's Thrall Collar~
+@65=~This device is used to disrupt neural connections in the brain, causing its wearer to be more emotionless and complacent. It appears to be slightly damaged.
+
+Weight: 1~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@66=~Europea's Body~
+@67=~This is the body of Europea.
+
+Weight: 65~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@68=~Magnus' Corpse~
+@69=~This is the body of Magnus.
+
+Weight: 115~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@70=~Discrete Missive~
+@71=~This small letter is written in code only decipherable by the Shadow Thieves.
+
+Weight: 0~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@72=~Fake Kerykeion Piece~
+@73=~A skillfully crafted imitation, concealing a perilous enchantment. Forged by the cunning hands of the Shadow Thieves, this replica harbors a deadly secret. Its sole intent, to entice Baldwin into integrating it with the genuine Kerykeion shards, triggering a devastating trap that ensures his swift demise.
+
+Weight: 1~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@74=~Counterfeit Gold~
+@75=~Although barely noticable, the weight, feel and hue of this coin is slightly off compared to real gold. It could easily be mistaken as legitimate if passed over with a quick glance.
+
+Weight: 0~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@76=~Torn Fabric~
+@77=~This is a torn piece of cloth that you found clenched in Galatea's hand.
+
+Weight: 0~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@78=~Karp's Ring~
+@79=~Ring of Protection +1: Ring of the Princes
+This ring and several of its type were originally crafted to protect the sons of King Castter De'wess, though who uttered the enchantment is unknown. History records that the rings remained within that family for at least thirteen generations, though they were all apparently lost within the space of one. Enmity between the king and the family of the creator may be to blame.
+
+STATISTICS:
+
+Equipped abilities:
+- Armor Class: +1
+- Saving Throws: +1
+
+Weight: 0~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@80=~Gamesman's Stun Dart~
+@81=~The Dart of Stunning looks like any other dart, other than the fact that it seems to pulse slightly when held in the hand. The true effects can be seen when one strikes an opponent and they fall to the ground stunned.
+
+Weight: 0~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@82=~Vial of Snake Venom~
+@83=~A deadly poison typically favored by assassins. A small layer applied to any weapon will have devastating effects to anyone who it comes in contact with.
+
+STATISTICS:
+
+- Applied to weapon
+- Hit target suffers 5 points of poison damage
+- Hit target suffers 1 poison damage per second for 12 seconds (save vs. poison)
+- Duration: 5 rounds
+
+Weight: 1~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@84=~Gorgon's Breath~
+@85=~This is a bottle of concentrated gorgon's breath. It was found among a large stockpile of potions hidden in the forest of Cormanthor. Alongside them laid a broken bottle and a petrified elf.
+
+STATISTICS:
+
+- Applied to weapon
+- Hit target becomes stunned for 5 rounds
+
+Weight: 1~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@86=~Ring~
+@87=~Ring of Minor Lock Picking~
+@88=~A ring is a small band of precious metal that is used as jewelry. Some rare rings have had enchantments placed upon them that confer various magical abilities. These rings are highly sought after, especially by those of the adventuring profession.
+
+STATISTICS:
+
+Weight: 0~
+@89=~Crafted by the skilled hands of the elusive locksmith known as Elara Shadowhand, the Ring of Minor Lockpicking serves as a patient mentor to those just beginning their journey into the shadows. Elara, herself a master of the art of lock manipulation, recognized the need for a tool that would gently guide fledgling thieves in honing their craft.
+
+Legend tells of Elara's secluded workshop, hidden away in the heart of a sprawling metropolis. There, she spent countless hours refining her techniques and studying the mechanisms of locks and keys. Her dedication culminated in the creation of the first Ring of Minor Lockpicking, a testament to her commitment to nurturing the skills of the next generation of rogues.
+
+The ring's enchantments are designed to provide subtle assistance to those seeking to perfect the delicate art of lock-picking. When worn, the wearer finds their fingers moving with an almost instinctual precision, allowing them to more deftly manipulate tumblers and pins. It is as though the ring imparts a gentle nudge in the right direction, teaching through touch and muscle memory.
+
+STATISTICS:
+
+Equipped abilities:
+- Open Locks: +15%
+
+Weight: 0~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@90=~Ring~
+@91=~Ring of Awareness~
+@92=~A ring is a small band of precious metal that is used as jewelry. Some rare rings have had enchantments placed upon them that confer various magical abilities. These rings are highly sought after, especially by those of the adventuring profession.
+
+STATISTICS:
+
+Weight: 0~
+@93=~Forged by the enigmatic artificer known as Maelis Windwhisper, the Ring of Awareness is a testament to the art of foresight and meticulous craftsmanship. Maelis, renowned for his affinity for traps and mechanisms, sought to create a tool that would grant its wearer an unparalleled ability to perceive hidden dangers.
+
+Legend holds that Maelis spent years delving into ancient tomes of arcane engineering and studying the intricacies of traps in forgotten dungeons. Through his tireless efforts, he unearthed the secrets of imbuing ordinary objects with extraordinary properties. It was during a starlit night in the heart of the Moonwood that he completed the final enchantments on the first Ring of Awareness.
+
+The ring's power lies in its uncanny ability to heighten the senses of its wearer, particularly in the realm of trap detection. Those who don this ring find themselves endowed with a preternatural awareness of their surroundings, allowing them to discern even the most cunningly concealed mechanisms and snares.
+
+STATISTICS:
+
+Equipped abilities:
+- Find Traps: +15%
+
+Weight: 0~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@94=~Ring~
+@95=~Ring of the Cutpurse~
+@96=~A ring is a small band of precious metal that is used as jewelry. Some rare rings have had enchantments placed upon them that confer various magical abilities. These rings are highly sought after, especially by those of the adventuring profession.
+
+STATISTICS:
+
+Weight: 0~
+@97=~The Ring of the Cutpurse is a sinister accessory, its design betraying its nefarious purpose. Crafted with a keen eye for subterfuge, this ring aids its wearer in the art of pilfering. Its band is etched with delicate engravings reminiscent of shadowy alleyways and covert dealings, a testament to its clandestine origins.
+
+Forged in the shadowy forges of the underworld, it became a prized possession among those with a penchant for stealth and larceny. Crafted with a single purpose in mind, this ring is an essential tool for those who thrive in the shadows, seeking to lighten the purses of unsuspecting victims.
+
+The ring's power lies in its ability to enhance the dexterity and finesse of its wearer, enabling them to deftly navigate the crowded streets and swiftly relieve unsuspecting targets of their valuables. Those who possess this ring find themselves endowed with an uncanny ability to move in and out of crowds, their fingers dancing nimbly as they lighten the purses of the unwary.
+
+STATISTICS:
+
+Equipped abilities:
+- Pick Pockets: +15%
+
+Weight: 0~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@98=~Looter's Band~
+@99=~Crafted from the melding of three distinct magical thieving rings, its design is an elegant fusion of enchantments. When worn, it bestows its wearer with a heightened sense of awareness and an uncanny knack for uncovering hidden treasures. It provides the wearer with an uncanny ability to sense valuable items hidden away, whether in dusty tombs, ancient crypts, or the pockets of unsuspecting victims.
+
+STATISTICS:
+
+Equipped abilities:
+- Pick Pockets: +15%
+- Open Locks: +15%
+- Find Traps: +15%
+
+Weight: 0~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@100=~Snake~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@101=~Kerykeion: Euryale's Promise~
+@102=~This short sword was made using a fragment of the Kerykeion, giving it unique and terrifying powers. It has the essence of the Gorgon Sister Euryale flowing through it. Its slim design makes it ideal for quick attacks.
+
+STATISTICS:
+
+Combat abilities:
+- Increases number of attacks by 1
+
+THAC0: +2
+Damage: 1d6 +2
+Damage Type: Piercing
+Speed Factor: 0
+Proficiency Type: Short Sword
+Type: One-handed
+Requires:
+ 5 Strength
+
+Weight: 3~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@103=~Kerykeion: Stheno's Blade~
+@104=~This katana was made using a fragment of the Kerykeion, giving it unique and terrifying powers. It has the essence of the Gorgon Sister Stheno flowing through it. It was forged by combining the fragment with the original Ogre Blade. Its impact is so powerful that it leaves its targets stunned. This blade is also heavily coated in highly acidic ogre blood.
+
+STATISTICS:
+
+Combat abilities:
+- 10% chance to stun target for half a round (save vs. spell)
+- 10% chance to deal an additional 5 acid damage
+
+THAC0: +2
+Damage: 1d10 +2
+Damage Type: Crushing
+Speed Factor: 2
+Proficiency Type: Katana/Wakizashi
+Type: One-handed
+Requires:
+ 12 Strength
+
+Weight: 8~
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@105=~Dagger~
+@106=~Stealthwhisper~
+@107=~The typical dagger has a pointed, usually double-edged blade, as opposed to a knife, which has a single edge and is a bit shorter.
+
+STATISTICS:
+
+Damage: 1d4 (piercing)
+Speed Factor: 2
+Proficiency Type: Dagger
+Type: One-handed
+Requires:
+ 3 Strength
+
+Weight: 1~
+@108=~The Lord of Shadows, Mask, is a deity of intrigue, secrets, and thievery, revered by rogues, spies, and those who dwell in the shadows. Throughout the realms, Mask's influence extends to the darkest corners of the world, where whispers of his name invoke both reverence and trepidation.
+
+The original Stealthwhisper was a longsword of unparalleled craftsmanship, imbued with the essence of its divine owner. Forged in the fiery depths of the divine realms, it was said to carry the very essence of stealth and cunning. Those who wielded it were rumored to become nigh invisible, slipping through shadows with an ethereal grace.
+
+Through the ages, the fate of Stealthwhisper remained shrouded in mystery, its whereabouts known only to the most dedicated of Mask's followers. It became a relic of mythic proportions, sought by those who yearned for the power to move through the world unseen.
+
+It was in an era of tumultuous upheaval that the longsword, Stealthwhisper, met its tragic fate. The details of its sundering remain obscure, lost in the annals of time. Some say it was shattered in a cataclysmic battle, while others believe it was deliberately divided, its fragments scattered across the realms.
+
+One such fragment found its way into the mortal realm, where it was discovered by a skilled artisan and blade master. Recognizing the divine essence within, the artisan undertook a daunting task: to reforge the fragment into a weapon that might harness a fraction of its former glory. Thus, Stealthwhisper was reborn.
+
+Though its form was altered, the dagger retained a portion of the original longsword's mystique. Those who wield it find themselves bestowed with a measure of Mask's elusive grace, enabling them to move through the world with an uncanny stealth. Shadows seem to embrace them, granting an almost supernatural ability to evade detection.
+
+Stealthwhisper serves as a testament to the enduring power of Mask and the indomitable spirit of those who seek to harness the shadows. For those who dare to wield it, it offers a tantalizing taste of the divine, a reminder that even fragments of the gods can hold unimaginable power.
+
+STATISTICS:
+
+Combat abilities:
+- Increases number of attacks by 1
+- Chance to score a critical hit +10%
+
+THAC0: +4
+Damage: 1d4 +4, +5 cold
+Damage Type: Piercing
+Speed Factor: 0
+Proficiency Type: Dagger
+Type: One-handed
+Requires:
+ 3 Strength
+
+Weight: 1~
+
+@109=~Noble Coin Purse~
+@110=~These elegant coin purses are finely crafted from rich, embroidered silk, showcasing the mark of Waterdeep's nobility. With a sturdy clasp of polished silver, they are designed to securely hold a significant amount of coins. A symbol of affluence and prestige, these purses are a coveted accessory for those with discerning tastes in both fashion and wealth. Remarkably, despite the weight of their contents, the pouch possesses a subtle magical enchantment, allowing it to feel almost weightless when carried. This added convenience makes it a prized possession for any astute collector or cunning rogue.
+
+Weight: 0~
+
+@111=~Gorgon's Eye Coffer~
+@112=~This sack, woven from shadowy fibers, conceals a trove of contraband. Its contents, shimmering with a dark allure, hint at the illicit treasures within. Crafted with meticulous skill by the skilled hands of the Gorgon's Eye, these sacks are not merely containers, but symbols of the guild's expertise in the art of stealth and subterfuge. Infused with enchantments of concealment, they ensure the safety of their contents, allowing them to pass undetected through the keenest of eyes. When the time comes, the sacks are swiftly retrieved, and their spoils reap the rewards of the Gorgon's Eye's shadowy endeavors. Each one is a testament to the guild's mastery over the underworld, and a reminder to all who cross their path that some treasures are best left untouched.
+
+Weight: 3~
+
+@113=~Forged Letter~
+@114=~This carefully crafted letter bears the insignia of the City Watch, complete with official-looking seals and signatures. It commands the traitor to meet at the southern fountains at nightfall for what appears to be an important rendezvous.
+
+Weight: 0~
+
+@115=~Guild Dues~
+@116=~Sealed with the mark of the Gorgon's Eye, these coin-filled pouches are the dues paid by Beregost establishments. Each jingle is a testament to the security we provide, guaranteeing safe passage through these shadowed streets. A weighty gesture of mutual understanding in the clandestine dance of the underworld.
+
+Weight: 5~
+
+@117=~Moonlit Cascade~
+@118=~The Moonlit Cascade is an exquisite necklace crafted with extraordinary precision and care. The centerpiece is a flawless sapphire, captured in an intricate silver setting resembling a cascading waterfall under the gentle glow of a moonbeam. Delicate filigree work adorns the chain, evoking the ethereal dance of light on water. Its rarity is unmistakable, with only a handful ever created, making it a true collector's piece. Wearing the Moonlit Cascade not only grants a touch of elegance but also a sense of enchanting mystique.
+
+Weight: 1~
+
+@119=~Moonshae Whiskey~
+@120=~A bottle of Moonshae Whiskey, a rare and sought-after spirit hailing from the distant Moonshae Isles. Known for its smooth, smoky flavor and unique blend of herbs and spices, this whiskey has earned its reputation as a prized indulgence for those with discerning tastes. Each sip carries the essence of a distant land, evoking the rugged landscapes and vibrant culture of the Moonshaes. This particular bottle is exquisitely crafted, with a label adorned by a silver crescent moon, hinting at the whiskey's celestial origins. Its presence commands attention, making it a cherished addition to any connoisseur's collection.
+
+Weight: 2~
+
+@121=~Incendiary Device~
+@122=~This ominous container holds a volatile concoction of highly flammable substances, sealed within reinforced glass. A lit fuse extends from the cap, giving a countdown to the impending inferno. The label bears dire warnings and cautionary symbols, a testament to its destructive potential. Once ignited, it releases a torrent of searing flames, consuming all in its path. Wielding this weapon requires great care and deliberation, as its power can be harnessed for both creation and devastation. Use wisely.
+
+Weight: 2~
+
+@123=~Incriminating Evidence~
+@124=~These weathered parchment documents bear the official seal of the Amnian army, detailing a list of suspected illegal activities attributed to Captain Selena Stardancer and her notorious crew. The evidence includes accounts of smuggling operations, reports of raids on merchant vessels, and alleged connections to illicit dealings across the realm. The documents also contain testimonies from witnesses and intercepted correspondences, painting a damning portrait of Stardancer's criminal enterprises. Possession of these papers holds considerable leverage over Stardancer, making them a valuable asset for any party looking to assert authority or negotiate with the notorious swashbuckler.
+
+Weight: 0~ 
+
+@125=~Coin Purse~
+@126=~This sizable sack is brimming with a weighty assortment of gleaming coins, their metallic glint promising the potential for great wealth and prosperity. The jingling symphony of currency within serves as a constant reminder of its substantial value. The sack itself is robustly crafted, its seams reinforced to bear the considerable load. Its contents whisper of untold possibilities, awaiting the right opportunity to be put to use.
+
+Weight: 5~
+
+@127=~Piercing Trap~
+@128=~The Piercing Trap is a deadly contraption, its mechanism honed to perfection. When activated, it unleashes a storm of razor-sharp arrows, designed to pierce through flesh and armor alike with merciless precision.
+
+STATISTICS:
+
+Damage: 2d6+6
+Damage Type: Piercing
+
+Weight: 1~
+
+@129=~Poison Trap~
+@130=~The Poison Trap conceals a sinister secret within its unassuming exterior. Once triggered, it springs to life, launching arrows tipped with a lethal venom that courses through the victim's veins, delivering a venomous, lingering torment.
+
+STATISTICS:
+
+Damage: 2d6, +6 poison, +1d6 poison per round for the next 3 rounds
+Damage Type: Piercing
+
+Weight: 1~
+
+@131=~Incendiary Trap~
+@132=~The Incendiary Trap is a testament to the art of controlled destruction. With a flicker of arcane fire, it hurls forth arrows wreathed in flames, turning the air to searing heat as they scorch their intended target, leaving naught but ash in their wake.
+
+STATISTICS:
+
+Damage: 2d6, +2d6 fire
+Damage Type: Piercing
+
+Weight: 1~
+
+@133=~Elemental Trap~
+@134=~This masterful creation, known as the Elemental Trap, draws upon the very essence of the elements. When activated, it projects a volley of magically infused arrows, each bearing the power of fire, electricity, and ice. Its victims face an onslaught of elemental fury.
+
+STATISTICS:
+
+Damage: 2d6, +3 fire, +3 cold, +3 electricity
+Damage Type: Piercing
+
+Weight: 1~
+
+@135=~Stun Trap~
+@136=~The Stun Trap is a cunning invention that strikes with both stealth and potency. When set in motion, it launches venom-laced arrows designed to incapacitate the target, leaving them immobilized and vulnerable to the whims of their assailant.
+
+STATISTICS:
+
+Damage: 2d4+4
+Additional Effect: Stuns target
+Damage Type: Piercing
+
+Weight: 1~
+
+@137=~Flash Trap~
+@138=~The Flash Trap is a blinding marvel of subterfuge. Upon activation, it propels arrows that burst upon impact, flooding the area with a brilliant, searing light. Those caught in its radiance are left disoriented, their vision consumed by a blinding brilliance.
+
+STATISTICS:
+
+Damage: 2d4+4
+Additional Effect: Blinds target
+Damage Type: Piercing
+
+Weight: 1~
+
+@139=~Netheril's Grimoire of Lost Arcana~
+@140=~This ancient grimoire bears the weight of forgotten epochs, its pages inscribed with runes and sigils of a bygone era. The cover, crafted from a weathered leather bound in silver, exudes an aura of mystic power. The contents within contain incantations and spells believed to have been lost to time, secrets of an arcane legacy that once thrived in the distant lands of Netheril. Owning this tome grants its possessor the potential to unlock unparalleled depths of magical prowess, but with such power comes great responsibility and peril. Approach with caution, for within its pages lies the legacy of a civilization lost to history.
+
+Weight: 3~
+
+@141=~Featherlung Serum~
+@142=~This delicate glass vial contains a shimmering, ethereal liquid. The serum emits a faint, soothing glow, hinting at its potent properties. Crafted by the skilled hands of the alchemist, Alaric, this serum holds the potential to alleviate the suffering caused by the dreaded featherlung disease.
+
+Weight: 1~
+
+@143=~Flaming Fist Ledger~
+@144=~This hefty tome, bound in weathered leather, bears the insignia of the Flaming Fist. The pages within are filled with meticulous records and covert correspondences, detailing undisclosed operations, hidden agendas, and the intricate web of political alliances of the Flaming Fist.
+
+Weight: 3~
+
+@145=~Titan's Might~
+@146=~'The Alchemist's Circle of Mastery' is a collection of six magical rings that are the masterwork of Eliana, a legendary alchemist and sage. She believed that true mastery of the alchemical arts lay in perfecting the self, and thus each ring was designed to enhance a different aspect of one's being. It's said that together, these rings represent the pinnacle of Eliana's life's work and philosophy, each a testament to her unmatched skill and wisdom. Legend has it that when united, the rings hold a secret power known only to those who can wield all aspects of mastery harmoniously.
+
+Titan's Might is a heavy iron ring etched with ancient runes of power. Eliana crafted it using a rare ore from the heart of a fallen star, believing it to be imbued with celestial strength. This ring is said to grant the wearer the mighty power of legendary titans.
+
+Equipped abilities:
+- Strength: +1
+
+Weight: 0~
+
+@147=~Agile Grace~
+@148=~'The Alchemist's Circle of Mastery' is a collection of six magical rings that are the masterwork of Eliana, a legendary alchemist and sage. She believed that true mastery of the alchemical arts lay in perfecting the self, and thus each ring was designed to enhance a different aspect of one's being. It's said that together, these rings represent the pinnacle of Eliana's life's work and philosophy, each a testament to her unmatched skill and wisdom. Legend has it that when united, the rings hold a secret power known only to those who can wield all aspects of mastery harmoniously.
+
+Agile Grace is a delicate silver ring adorned with a feather motif. Eliana created it using silver from the mines of the Moon Pass, known for its connection to the element of air. The ring bestows grace and swiftness akin to a whispering wind.
+
+Equipped abilities:
+- Dexterity: +1
+
+Weight: 0~
+
+@149=~Stalwart Heart~
+@150=~'The Alchemist's Circle of Mastery' is a collection of six magical rings that are the masterwork of Eliana, a legendary alchemist and sage. She believed that true mastery of the alchemical arts lay in perfecting the self, and thus each ring was designed to enhance a different aspect of one's being. It's said that together, these rings represent the pinnacle of Eliana's life's work and philosophy, each a testament to her unmatched skill and wisdom. Legend has it that when united, the rings hold a secret power known only to those who can wield all aspects of mastery harmoniously.
+
+Stalwart Heart is made of a dark, almost indestructible metal, featuring a heart encircled by thorns. Eliana forged this ring from the core of the ancient earth, symbolizing endurance and resilience. It is believed to fortify the wearer's constitution like the enduring earth.
+
+Equipped abilities:
+- Constitution: +1
+
+Weight: 0~
+
+@151=~Enlightened Mind~
+@152=~'The Alchemist's Circle of Mastery' is a collection of six magical rings that are the masterwork of Eliana, a legendary alchemist and sage. She believed that true mastery of the alchemical arts lay in perfecting the self, and thus each ring was designed to enhance a different aspect of one's being. It's said that together, these rings represent the pinnacle of Eliana's life's work and philosophy, each a testament to her unmatched skill and wisdom. Legend has it that when united, the rings hold a secret power known only to those who can wield all aspects of mastery harmoniously.
+
+Enlightened Mind is crafted from a bright, blue-tinted metal, set with a crystal that sparkles with inner light. Eliana sought the rarest crystals from the deepest caves for its creation, representing the pursuit of hidden knowledge. The ring is said to illuminate the mind of its wearer.
+
+Equipped abilities:
+- Intelligence: +1
+
+Weight: 0~
+
+@153=~Sage's Vision~
+@154=~'The Alchemist's Circle of Mastery' is a collection of six magical rings that are the masterwork of Eliana, a legendary alchemist and sage. She believed that true mastery of the alchemical arts lay in perfecting the self, and thus each ring was designed to enhance a different aspect of one's being. It's said that together, these rings represent the pinnacle of Eliana's life's work and philosophy, each a testament to her unmatched skill and wisdom. Legend has it that when united, the rings hold a secret power known only to those who can wield all aspects of mastery harmoniously.
+
+Ring of Sage's Vision is made from gold and shaped in the form of an owl, with emeralds for eyes. Eliana fashioned it from gold found in the sacred rivers, believed to be blessed by the gods of wisdom. This ring aids in seeing the truth beyond illusions.
+
+Equipped abilities:
+- Wisdom: +1
+
+Weight: 0~
+
+@155=~Radiant Command~
+@156=~'The Alchemist's Circle of Mastery' is a collection of six magical rings that are the masterwork of Eliana, a legendary alchemist and sage. She believed that true mastery of the alchemical arts lay in perfecting the self, and thus each ring was designed to enhance a different aspect of one's being. It's said that together, these rings represent the pinnacle of Eliana's life's work and philosophy, each a testament to her unmatched skill and wisdom. Legend has it that when united, the rings hold a secret power known only to those who can wield all aspects of mastery harmoniously.
+
+Radiant Command is a ring of polished gold, set with a ruby that glows softly. Eliana used a ruby from the heart of a volcano, signifying the fiery power of charisma. The ring is known to imbue the wearer with a commanding aura.
+
+Equipped abilities:
+- Charisma: +1
+
+Weight: 0~
+
+@157=~Nightstalker's Amulet~
+@158=~The Nightstalker's Amulet is a revered artifact believed to have been created by devout followers of Mask. This amulet, forged under a dark new moon and infused with the essence of the shadow realm, is said to resonate with the elusive power of Mask. The amulet's unique enchantment enhances the wearer's precision and lethality, granting a constant edge in combat. It features a darkened silver chain and a centerpiece made of moonstone, symbolizing the wearer's connection to the hidden and the unseen. According to legend, this amulet was once used by the most elite assassins and covert operatives devoted to the Lord of Shadows. Its ability to improve critical strikes makes it a coveted item among thieves, rogues, and adventurers who value stealth and cunning over brute strength. The Nightstalker's Amulet is not just a tool of combat; it's a symbol of the bearer's alignment with the subtler, more dangerous aspects of adventuring in a world rife with magic and mystery.
+
+STATISTICS:
+
+Equipped abilities:
+- Chance to score a critical hit +10%
+
+Weight: 0~
+
+@159=~Studded Leather Armor~
+@160=~Isla Darkcloak's Shadowweave Armor~
+@161=~Studded leather armor has little in common with normal leather armor. While leather armor is a hardened shell, studded leather armor is soft and supple with hundreds of metal rivets affixed. The rivets are so close together that they form a flexible coating of hard metal that turns aside slashing and cutting attacks. The soft leather backing is little more than a means of securing the rivets in place.
+
+STATISTICS:
+
+Armor Class: 7 (5 vs. slashing, 6 vs. piercing and missile)
+Requires:
+ 6 Strength
+
+Weight: 25~
+@162=~This finely crafted studded leather armor is as much a part of Isla Darkcloak's legend as her exploits in the fighting pits and the shadowy corners of the Sword Coast. The leather is dyed in deep, shifting shades of black and gray, almost seeming to absorb the light around it. Each stud is masterfully placed, not just for protection but also to aid in her stealthy movements.
+
+Rumor has it that Isla herself commissioned this armor from a master leatherworker who was said to use materials sourced from the Shadowfell. The armor not only provides protection but also enhances the wearer's natural agility and stealth, making Isla an even more formidable opponent and ally in the underworld. As she moved from the glory of the arena to the shadows of mercenary work, her armor became a symbol of her adaptability and prowess in both worlds.
+
+STATISTICS:
+
+Equipped abilities:
+- Dexterity: +1
+
+Armor Class: 4 (2 vs. slashing, 3 vs. piercing and missile)
+Requires:
+ 6 Strength
+
+Weight: 8~
+
+@163=~Create Snare~
+@164=~This unique skill allows Liedel to utilize her extensive knowledge of deadly toxins and intricate trap mechanisms to create devious snares for her unsuspecting prey. Once per day, she can craft Arachnid's Kiss, showcasing her ability to control the battlefield and subdue her targets with precision and creativity. These traps are not only tools of her trade but also expressions of her dark artistry in the shadowy world she thrives in.
+
+Arachnid's Kiss:
+
+When triggered, this intricate contraption unleashes a flurry of arrows laced with a potent toxin. The arrows spring from hidden compartments, enveloping the target in a deadly embrace. Each arrow carries a neurotoxic venom, engineered to inflict recurring poison damage, debilitating the victim's physical capabilities, and causing intense disorientation. The toxin's paralyzing effect also stuns the target, rendering them vulnerable to further attacks. Crafted with precision and cunning, Arachnid's Kiss is a testament to Liedel's reputation as a formidable bounty hunter and a master of her deadly art.
+
+Damage: 2d6, +6 poison, +1d6 poison per round for the next 3 rounds
+Additional Effect: Stuns target
+Damage Type: Piercing
+
+Weight: 1~
+
+@165=~Arachnid's Kiss~
+@166=~When triggered, this intricate contraption unleashes a flurry of arrows laced with a potent toxin. The arrows spring from hidden compartments, enveloping the target in a deadly embrace. Each arrow carries a neurotoxic venom, engineered to inflict recurring poison damage, debilitating the victim's physical capabilities, and causing intense disorientation. The toxin's paralyzing effect also stuns the target, rendering them vulnerable to further attacks. Crafted with precision and cunning, Arachnid's Kiss is a testament to Liedel's reputation as a formidable bounty hunter and a master of her deadly art.
+
+STATISTICS:
+
+Damage: 2d6, +6 poison, +1d6 poison per round for the next 3 rounds
+Additional Effect: Stuns target
+Damage Type: Piercing
+
+Weight: 1~
+
+@167=~Tenets of the Unseen~
+@168=~Wealth rightfully belongs to those who can acquire it. Strive to end each day with more material wealth than you began it with, but steal what is most vital, not everything that is to hand.
+
+Honesty is for fools, but apparent honesty is a very valuable thing. Make every untruth seem plausible, and never lie when you can cleave to the truth but leave a mistaken impression; a bridge burned means much rebuilding if you need to cross over there again.
+
+Subtlety is everything. A bribe is the least subtle of the tools Mask gives to us. Never force someone to do something when you can manipulate them into doing it and thinking the decision and the deed are entirely their own freewilled work.
+
+Never do the obvious, except to conceal a secondary or tertiary deed or arrangement. Spin secrets atop secrets, but do so unconcernedly, not with the sly excitement of untutored youth.
+
+Trust in the shadows, for the bright way makes for easy targets.~
