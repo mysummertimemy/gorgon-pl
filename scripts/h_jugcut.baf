@@ -1,0 +1,65 @@
+IF
+    True()
+THEN
+    RESPONSE #100
+        CutSceneId(Player1)
+
+        //MoveViewObject("h_inspec",VERY_FAST)
+        FadeToColor([20.0],0)
+        Wait(2)
+        MoveViewPoint([404.1086],INSTANT)
+        Face(NW)
+        LeaveAreaLUAPanic("%Beregost_JovialJuggler_L1%","",[237.989],NE)
+        LeaveAreaLUA("%Beregost_JovialJuggler_L1%","",[237.989],NE)
+        MultiPlayerSync()
+        CreateCreature("h_city4c",[428.949],NE)
+        CreateCreature("h_city3c",[596.994],NW)
+        MultiPlayerSync()
+        FadeFromColor([20.0],0)
+        Wait(2)
+        ActionOverride("h_ishanc",Face(SW))
+        ActionOverride("h_inspec",MoveToPoint([533.919]))
+        ActionOverride("h_inspec",StartDialog("h_insped",[PC])
+        Wait(3)
+        EndCutSceneMode()
+END
+
+IF
+    True()
+THEN
+    RESPONSE #100
+        CutSceneId(Player2)
+        LeaveAreaLUA("%Beregost_JovialJuggler_L1%","",[719.180],S)
+END
+
+IF
+    True()
+THEN
+    RESPONSE #100
+        CutSceneId(Player3)
+        LeaveAreaLUA("%Beregost_JovialJuggler_L1%","",[719.180],S)
+END
+
+IF
+    True()
+THEN
+    RESPONSE #100
+        CutSceneId(Player4)
+        LeaveAreaLUA("%Beregost_JovialJuggler_L1%","",[719.180],S)
+END
+
+IF
+    True()
+THEN
+    RESPONSE #100
+        CutSceneId(Player5)
+        LeaveAreaLUA("%Beregost_JovialJuggler_L1%","",[719.180],S)
+END
+
+IF
+    True()
+THEN
+    RESPONSE #100
+        CutSceneId(Player6)
+        LeaveAreaLUA("%Beregost_JovialJuggler_L1%","",[719.180],S)
+END

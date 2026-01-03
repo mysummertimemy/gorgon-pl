@@ -1,0 +1,215 @@
+IF
+         Global("h_GuildSpawn","GLOBAL",0)
+THEN
+         RESPONSE #100
+                  CreateCreature("h_baldwc",[1532.450],S)
+                  CreateCreature("h_saradc",[1274.548],SE)
+                  CreateCreature("h_rigalc",[945.1121],S)
+                  CreateCreature("h_liedec",[762.1342],NE)
+                  CreateCreature("h_eurync",[700.1220],SE)
+
+                  CreateCreature("h_meredc",[1750.1098],SW)
+
+                  CreateCreature("h_gilbac",[1466.1196],SE)
+                  CreateCreature("h_gamesc",[1464.1125],S)
+                  CreateCreature("h_game2c",[1407.1122],S)
+                  CreateCreature("h_game3c",[1344.1207],E)
+
+                  CreateCreature("h_zedacc",[1054.1314],NW)
+                  CreateCreature("h_smuggc",[1098.1288],W)
+                  CreateCreature("h_smuggc",[1066.1358],W)
+                  
+                  CreateCreature("h_danika",[1317.451],SE)
+
+                  SetGlobal("h_GuildSpawn","GLOBAL",1)
+                  Continue()
+END
+
+IF
+         Global("h_FighterSpawn","GLOBAL",0)
+THEN
+         RESPONSE #100
+                  CreateCreature("h_catcac",[1605.1712],W)
+                  CreateCreature("h_deadec",[1581.1696],SSW)
+                  CreateCreature("h_pits1c",[1379.1795],NE)
+                  CreateCreature("h_pits2c",[1617.1803],NW)
+                  CreateCreature("h_pits3c",[1452.1827],NNE)
+                  CreateCreature("h_pits4c",[1457.1756],SW)
+                  CreateCreature("h_pits5c",[1461.1672],S)
+
+                  SetGlobal("h_FighterSpawn","GLOBAL",1)
+                  Continue()
+END
+
+IF
+         Global("h_GuildThieves","GLOBAL",0)
+THEN
+         RESPONSE #100
+                  CreateCreature("h_ariosc",[846.1185],N)
+                  CreateCreature("h_roguec",[1006.1057],SW)
+                  CreateCreature("h_roguec",[1059.1101],SW)
+                  
+                  CreateCreature("h_roguec",[1262.680],NE)
+                  CreateCreature("h_roguec",[1400.750],N)
+                  CreateCreature("h_roguec",[1672.726],N)
+                  CreateCreature("h_roguec",[1796.656],NW)
+                  
+                  CreateCreature("h_roguec",[1238.1379],E)
+                  CreateCreature("h_roguec",[1208.1438],E)
+                  SetGlobal("h_GuildThieves","GLOBAL",1)
+                  Continue()
+END
+
+IF
+         Global("h_GuildThieves","GLOBAL",5)
+THEN
+         RESPONSE #100
+                  CreateCreature("h_roguec",[1006.1057],SW)
+                  CreateCreature("h_roguec",[1059.1101],SW)
+                  
+                  CreateCreature("h_roguec",[1262.680],NE)
+                  CreateCreature("h_roguec",[1400.750],N)
+                  CreateCreature("h_roguec",[1672.726],N)
+                  CreateCreature("h_roguec",[1796.656],NW)
+                  
+                  CreateCreature("h_roguec",[1238.1379],E)
+                  CreateCreature("h_roguec",[1208.1438],E)
+                  SetGlobal("h_GuildThieves","GLOBAL",6)
+                  Continue()
+END
+
+IF
+         Global("h_SpawnAriosh","GLOBAL",1)
+THEN
+         RESPONSE #100
+                  CreateCreature("h_ariosc",[823.1454],N)
+                  SetGlobal("h_SpawnAriosh","GLOBAL",2)
+                  Continue()
+END
+
+IF
+         Global("h_SpawnAriosh","GLOBAL",4)
+THEN
+         RESPONSE #100
+                  CreateCreature("h_ariosc",[846.1185],S)
+                  CreateCreature("h_roguec",[1006.1057],SW)
+                  CreateCreature("h_roguec",[1059.1101],SW)
+                  SetGlobal("h_SpawnAriosh","GLOBAL",5)
+                  Continue()
+END
+
+IF
+         Global("h_GuildMusic","GLOBAL",0)
+THEN
+         RESPONSE #100
+                  SoundActivate("GuildMusic",TRUE)
+                  Continue()
+END
+
+IF
+         Global("h_GuildMusic","GLOBAL",2)
+THEN
+         RESPONSE #100
+                  SoundActivate("GuildMusic",TRUE)
+                  Continue()
+END
+
+IF
+         Global("h_GuildMusic","GLOBAL",3)
+THEN
+         RESPONSE #100
+                  SoundActivate("GuildMusic",FALSE)
+                  Continue()
+END
+
+IF
+         Global("h_GuildMusic","GLOBAL",4)
+THEN
+         RESPONSE #100
+                  SoundActivate("GuildMusic",TRUE)
+                  Continue()
+END
+
+IF
+         Global("h_SpawnRichard","GLOBAL",2)
+THEN
+         RESPONSE #100
+                  Wait(100)
+                  PlaySound("h_figmus")
+                  Continue()
+END
+
+IF
+         Global("h_RespawnIlena","GLOBAL",1)
+THEN
+         RESPONSE #100
+                  CreateCreature("h_ilenac",[1883.1134],SW)
+                  SetGlobal("h_RespawnIlena","GLOBAL",2)
+                  Continue()
+END
+
+IF
+         Global("h_ValeraQuest","GLOBAL",2)
+         Global("h_BlackJoin","GLOBAL",1)
+THEN
+         RESPONSE #100
+                  PlaySound("ACT_07")
+                  CreateCreature("h_blackc",[848.1241],N)
+                  SetGlobal("h_ValeraQuest","GLOBAL",3)
+                  Continue()
+END
+
+IF
+         Global("h_TravelToDen","GLOBAL",0)
+         Global("h_IlenaLeaves","GLOBAL",0)
+         !Exists("h_ilenac")
+THEN
+         RESPONSE #100
+                  CreateCreature("h_ilenac",[1883.1134],SW)
+                  Continue()
+END
+
+IF
+         Global("h_TravelToDen","GLOBAL",0)
+         !Exists("h_rafaec")
+THEN
+         RESPONSE #100
+                  CreateCreature("h_rafaec",[1888.1198],W)
+                  Continue()
+END
+
+IF
+         Global("h_TravelToDen","GLOBAL",0)
+         !Exists("h_miriac")
+THEN
+         RESPONSE #100
+                  CreateCreature("h_miriac",[1964.1108],S)
+                  Continue()
+END
+
+IF
+         Global("h_TravelToDen","GLOBAL",0)
+         !Exists("h_dariuc")
+THEN
+         RESPONSE #100
+                  CreateCreature("h_dariuc",[1897.1053],S)
+                  Continue()
+END
+
+IF
+         Global("h_KickedOut","GLOBAL",1)
+         Global("h_LiedelNoGuild","GLOBAL",0)
+THEN
+         RESPONSE #100
+                  CreateCreature("h_liedec",[762.1342],NE)
+                  SetGlobal("h_KickedOut","GLOBAL",2)
+END
+
+IF
+         Global("h_DanikaKickedOut","GLOBAL",1)
+         Global("h_DanikaGoToGorgon","GLOBAL",1)
+THEN
+         RESPONSE #100
+                  CreateCreature("h_danika",[1317.451],SE)
+                  SetGlobal("h_DanikaKickedOut","GLOBAL",2)
+END

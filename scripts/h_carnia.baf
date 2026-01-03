@@ -1,0 +1,74 @@
+IF
+         Global("h_GuildThieves","GLOBAL",2)
+THEN
+         RESPONSE #100
+                  CreateCreature("h_ariosc",[1127.2307],S)
+                  CreateCreature("h_roguec",[1077.2260],S)
+                  CreateCreature("h_roguec",[1142.2249],S)
+                  SetGlobal("h_GuildThieves","GLOBAL",3)
+                  Continue()
+END
+
+IF
+         Global("h_ShadowWar","GLOBAL",5)
+         Global("h_SpawnQuass","GLOBAL",1)
+THEN
+         RESPONSE #100
+                  CreateCreature("h_quassc",[4397.2266],E)
+                  CreateCreature("h_sthiec",[4444.2206],E)
+                  CreateCreature("h_sthiec",[4444.2326],E)
+                  CreateCreature("h_thiefc",[4550.2236],E)
+                  CreateCreature("h_thiefc",[4550.2206],E)
+                  CreateCreature("h_thiefc",[4550.2296],E)
+                  SetGlobal("h_ShadowWar","GLOBAL",6)
+                  Continue()
+END
+
+IF
+         Global("h_RigaldoQuest","GLOBAL",16)
+THEN
+         RESPONSE #100
+                  PlaySong(0)
+                  Continue()
+END
+
+IF
+         Global("h_SpawnProcus","GLOBAL",1)
+THEN
+         RESPONSE #100
+                  CreateCreature("h_procuc",[2757.2312],S)
+                  SetGlobal("h_SpawnProcus","GLOBAL",2)
+                  Continue()
+END
+
+IF
+         Global("h_SpawnSelena","GLOBAL",1)
+THEN
+         RESPONSE #100
+                  CreateCreature("h_selenc",[4397.1750],N)
+                  CreateCreature("h_piratc",[4404.1694],S)
+                  CreateCreature("h_pira2c",[4331.1730],SE)
+                  SetGlobal("h_SpawnSelena","GLOBAL",2)
+                  Continue()
+END
+
+IF
+         Global("h_SpawnVitiare","GLOBAL",1)
+         NumDeadLT("Vitiare",1)
+THEN
+         RESPONSE #100
+                  CreateCreature("h_vitiac",[4296.1771],E)
+                  SetGlobal("h_SpawnVitiare","GLOBAL",2)
+                  Continue()
+END
+
+IF
+         Global("h_SpawnSnakeHead","GLOBAL",1)
+         Global("h_BetrayBaldwin","GLOBAL",0)
+         Global("h_RandomEncounterForced","GLOBAL",1)
+THEN
+         RESPONSE #100
+                  SetGlobal("h_RandomEncounterForced","GLOBAL",2)
+                  ForceRandomEncounterEntry("h_flamea","h_flamee")
+                  Continue()
+END

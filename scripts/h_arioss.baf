@@ -1,0 +1,52 @@
+IF
+         Global("h_GuildThieves","GLOBAL",2)
+THEN
+         RESPONSE #100
+                  EscapeArea()
+END
+
+IF
+	 Global("h_GuildThieves","GLOBAL",4)
+THEN
+	 RESPONSE #100
+		  EscapeArea()
+END
+
+IF
+	 Global("h_SpawnAriosh","GLOBAL",2)
+THEN
+	 RESPONSE #100
+	          SmallWait(5)
+	          SoundActivate("GuildMusic",FALSE)
+	          SetGlobal("h_GuildMusic","GLOBAL",1)
+	          PlaySong(0)
+	          PlaySound("h_shamus")
+		  StartDialog("h_ariosd",[PC])
+END
+
+IF
+	 Global("h_SpawnAriosh","GLOBAL",3)
+THEN
+	 RESPONSE #100
+	          EscapeArea()
+END
+
+IF
+	Global("h_RigaldoQuest","GLOBAL",17)
+        Global("h_BountyNumber","GLOBAL",6)
+        Global("h_BetrayBaldwin","GLOBAL",2)
+        Global("h_FakeKery","GLOBAL",1)
+THEN
+	RESPONSE #100
+		 Face(S)
+END
+
+IF
+        Global("h_ValeraQuest","GLOBAL",3)
+        Global("h_BlackJoin","GLOBAL",0)
+
+THEN
+        RESPONSE #100
+                 Wait(1)
+                 StartDialog("h_ariosd",[PC])
+END

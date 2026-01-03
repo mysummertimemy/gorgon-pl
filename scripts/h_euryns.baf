@@ -1,0 +1,29 @@
+IF
+	See([PC])
+	Global("h_RigaldoQuest","GLOBAL",17)
+        Global("h_BountyNumber","GLOBAL",9)
+        GlobalGT("h_BetrayBaldwin","GLOBAL",0)
+        Global("h_FakeKery","GLOBAL",1)
+        Global("h_FinalTalkRhade","GLOBAL",0)
+THEN
+	RESPONSE #100
+		 SmallWait(5)
+		 StartDialog("h_eurynd",[PC])
+END
+
+IF
+	Global("h_ShadowWar","GLOBAL",9)
+THEN
+	RESPONSE #100
+	         SmallWait(3)
+	         EquipRanged()
+		 Attack("h_snak2c")
+END
+
+IF
+	Global("h_HelpCityWatch","GLOBAL",1)
+	!Allegiance(Myself,ENEMY)
+THEN
+	RESPONSE #100
+		 Enemy()
+END
