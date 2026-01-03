@@ -1,0 +1,823 @@
+@200=~Mieszkañcy Beregostu opowiadaj¹ o nawiedzonym tunelu za Gospod¹ Feldeposta. Warto to sprawdziæ i przekonaæ siê, ile prawdy kryje siê w tych pog³oskach.~
+
+@201=~M³ody ch³opak wspomnia³ o podejrzanie wygl¹daj¹cych osobnikach, którzy wchodzili do tunelu za Gospod¹ Feldeposta. Byæ mo¿e powinienem dok³adniej zbadaæ to miejsce.~~M³ody ch³opak wspomnia³ o podejrzanie wygl¹daj¹cych osobnikach, którzy wchodzili do tunelu za Gospod¹ Feldeposta. Byæ mo¿e powinnam dok³adniej zbadaæ to miejsce.~
+
+@202=~Zwi¹za³em swój los z Okiem Gorgony, niechlubn¹ gildi¹ z Beregostu, na czele której stoi enigmatyczny Baldwin. Moja inicjacja spoczywa w rêkach Rigalda, który wystawi na próbê mój spryt i umiejêtnoœci, zlecaj¹c mi seriê zadañ. To nowy rozdzia³ — pe³en ryzyka i obietnicy w³adzy. Granice miêdzy przyjacielem a wrogiem mog¹ siê zatrzeæ, lecz jestem gotów wkroczyæ na tê œcie¿kê.~~Zwi¹za³am swój los z Okiem Gorgony, niechlubn¹ gildi¹ z Beregostu, na czele której stoi enigmatyczny Baldwin. Moja inicjacja spoczywa w rêkach Rigalda, który wystawi na próbê mój spryt i umiejêtnoœci, zlecaj¹c mi seriê zadañ. To nowy rozdzia³ — pe³en ryzyka i obietnicy w³adzy. Granice miêdzy przyjacielem a wrogiem mog¹ siê zatrzeæ, lecz jestem gotowa wkroczyæ na tê œcie¿kê.~
+
+@203=~Natkn¹³em siê na jednego z agentów Baldwina, œwie¿o po potyczce ze Z³odziejami Cienia. Zdo³a³ zabezpieczyæ istotne dokumenty dotycz¹ce przysz³oœci gildii. Musz¹ zostaæ jak najszybciej dostarczone Baldwinowi.~
+
+@204=~Ariosh z³o¿y³ mi dziœ intryguj¹c¹ propozycjê, oferuj¹c mo¿liwoœæ do³¹czenia do jego kompanów i udzia³u w z³odziejskich przedsiêwziêciach na ulicach Beregostu. To praca ryzykowna, bez w¹tpienia, lecz ma w sobie pewien urok. Na razie odrzuci³em ofertê — nie do koñca pasuje do moich obecnych planów. Zachowam jednak szczegó³y na przysz³oœæ.~
+
+@205=~Ulice s¹ ostatnio dziwnie ciche, jakby miasto wstrzymywa³o oddech. Ariosh zapewnia mnie, ¿e to tylko kwestia czasu, zanim pojawi¹ siê nowe okazje. Cierpliwoœæ, jak twierdzi, bywa najostrzejszym narzêdziem w arsenale ³otrzyka.~
+
+@206=~Dziœ przeciê³y siê moje drogi z Nag¹, demarchini¹ Maska, która jednym spojrzeniem rozpozna³a we mnie ³otrzyka. W zamian za hojn¹ ofiarê na rzecz Koœcio³a Maska zaproponowa³a „Kompendium Z³odzieja” — zbiór tekstów poœwiêconych sztukom cienia. Zawarta w nim wiedza mo¿e znacz¹co rozwin¹æ moje umiejêtnoœci, choæ cena tej nauki jest wysoka. Muszê rozwa¿yæ, czy jestem gotów j¹ zap³aciæ.~
+
+@207=~Ulice Beregostu têtni¹ ¿yciem, pe³ne ludzi zajêtych w³asnymi sprawami. Dowódczyni Bia³odrzew przyjê³a mnie z wyraŸn¹ ostro¿noœci¹. Wspomina³a o nies³awnej gildii z³odziei, Oku Gorgony, oraz jej tajemniczym przywódcy, Baldwinie. Da³a jasno do zrozumienia, ¿e Stra¿ Miejska nie potrzebuje teraz dodatkowych r¹k. Poradzi³a mi natomiast obserwowaæ miasto i lepiej poznaæ jego uk³ad. To rozs¹dna rada — da mi czas, by zrozumieæ tutejsze zale¿noœci.~
+
+@208=~W samym sercu kryjówki stanêliœmy naprzeciw Oka Gorgony. Wraz z dowódczyni¹ Bia³odrzew rozbiliœmy gildiê, która zbyt d³ugo nêka³a Beregost. To zwyciêstwo ma swoj¹ wagê — miasto jest teraz bezpieczniejsze. Wdziêcznoœæ Bia³odrzew zapamiêtam jako dowód, ¿e nawet w cieniu mo¿na coœ zmieniæ.~
+
+@209=~Podj¹³em decyzjê, by stan¹æ po stronie Stra¿y Miejskiej w walce przeciw Oku Gorgony. Dowódczyni Bia³odrzew jest zdeterminowana, by raz na zawsze wyrwaæ wp³ywy gildii z miasta. Zanim jednak ruszymy dalej, muszê zebraæ si³y i przygotowaæ siê na to, co czeka nas w labiryncie ich kryjówki. Gdy bêdê gotów, wrócê do niej i doprowadzimy sprawê do koñca.~
+
+
+
+          ///////////////////////////////////
+          //////// Baldwin's Quests /////////
+          ///////////////////////////////////
+		  
+		  
+@210=~Czarodziejka Cieni
+
+Na zdradliwych szczytach Wzgórz Gibberlingów potê¿na czarodziejka strze¿e fragmentu Kerykejonu. Baldwin poleci³ mi stawiæ jej czo³a i zdobyæ ten kluczowy artefakt. Jasne jest, ¿e nie bêdzie to sprawa rozmów ani uk³adów. Muszê przygotowaæ siê na starcie magii i umys³ów.~
+
+@211=~Czarodziejka Cieni
+
+Pokona³em czarodziejkê na szczycie Wzgórz Gibberlingów i zdoby³em fragment Kerykejonu. Przed œmierci¹ wspomnia³a o niedawnych napaœciach ze strony ludzi podaj¹cych siê za z³odziei. Ta informacja mo¿e mieæ znaczenie. Powinienem niezw³ocznie przekazaæ j¹ Baldwinowi.~
+
+@212=~Czarodziejka Cieni
+
+Dostarczy³em Baldwinowi fragment Kerykejonu. Przyj¹³ go z wyraŸnym zadowoleniem, lecz jego s³owa wzbudzi³y niepokój. Podejrzewa, ¿e frakcja, która zaatakowa³a czarodziejkê, mo¿e uwa¿nie obserwowaæ równie¿ nasze dzia³ania. Od tej chwili musimy zachowaæ wiêksz¹ czujnoœæ.~
+
+@213=~Bomby nad Beregostem
+
+Gdy zapad³ zmrok, Oko Gorgony znalaz³o siê pod atakiem Z³odziei Cienia. Baldwin, uprzedzony o zagro¿eniu, zleci³ mi wytropienie i eliminacjê ich agentów dzia³aj¹cych w mieœcie. Sam zaj¹³ siê wzmacnianiem obrony kryjówki, œwiadom, ¿e to dopiero pocz¹tek otwartego konfliktu.~
+
+@214=~Bomby nad Beregostem
+
+Ulice sp³ynê³y krwi¹ poleg³ych Z³odziei Cienia. Wœród ich rzeczy odnalaz³em zaszyfrowany dokument. Jego treœæ jest dla mnie niezrozumia³a, lecz z pewnoœci¹ ma znaczenie dla ich organizacji. To znalezisko mo¿e okazaæ siê cenne.~
+
+@215=~Bomby nad Beregostem
+
+Dalszy trop prowadzi na pó³noc, w mroczne ostêpy Lasu Ostrych Zêbów. Przemytnik posiadaj¹cy kolejny fragment Kerykejonu szykuje siê tam do niebezpiecznego uk³adu. Czas nagli — wp³ywy Z³odziei Cienia siêgaj¹ daleko. Muszê przechwyciæ przemytnika, zanim wpadnie w ich rêce.~
+
+@216=~Bomby nad Beregostem
+
+W poœwiêconych salach elfich ruin by³em œwiadkiem zdrady. Thamuz, kierowany w³asnymi ambicjami, bez wahania zabi³ Nagate. Jego ponure ostrze¿enie wci¹¿ brzmi mi w uszach — twierdzi³, ¿e ponowne z³o¿enie Kerykejonu sprowadzi katastrofê. Zabi³em Thamuza i przej¹³em fragment, œwiadom, ¿e jego moc niesie zarówno obietnicê, jak i zagro¿enie.~
+
+@217=~Bomby nad Beregostem
+
+Z drugim fragmentem Kerykejonu powróci³em do Baldwina i przekaza³em mu s³owa Thamuza. Baldwin, pewny siebie jak zawsze, zapewni³ mnie, ¿e broñ jest bezpieczna i pod kontrol¹. Mimo to w moich myœlach pozosta³o ziarno w¹tpliwoœci co do jego prawdziwych intencji.~
+
+@218=~Gambit Gerarda
+
+Notatka, któr¹ przekaza³em Baldwinowi, ujawni³a niepokoj¹c¹ prawdê. Gerard Travenhurst oraz czêœæ mieszkañców Beregostu sprzymierzyli siê ze Z³odziejami Cienia, dzia³aj¹c jako ich informatorzy. Aby przypieczêtowaæ ten sojusz, Gerard zaoferowa³ im ostatni fragment Kerykejonu. Wobec tych wieœci Baldwin poleci³ mi udaæ siê na spotkanie do posiad³oœci Gerarda i byæ gotowym na wszystko, jeœli rozmowy przybior¹ niebezpieczny obrót.~
+
+@219=~Gambit Gerarda
+
+Dosz³o do wstrz¹saj¹cego zwrotu wydarzeñ. Baldwin zdo³a³ ponownie z³o¿yæ Kerykejon — a wraz z tym dokona³a siê potworna przemiana. Sta³ siê olbrzymim wê¿em, zatracaj¹c resztki cz³owieczeñstwa. Ramiê w ramiê ze Z³odziejami Cienia musia³em stawiæ mu czo³a. Walka by³a zaciek³a, lecz ostatecznie Baldwin poniós³ œmieræ. Ten mroczny rozdzia³ dobieg³ koñca, pozostawiaj¹c po sobie wiêcej pytañ ni¿ odpowiedzi.~
+
+@220=~Gambit Gerarda
+
+Po œmierci Baldwina zaproponowano mi objêcie przywództwa nad Okiem Gorgony. Jeœli przyjmê tê rolê, spadnie na mnie obowi¹zek wyznaczenia nowych zadañ i porz¹dków w gildii. Muszê równie¿ przekazaæ jedyny ocala³y fragment Kerykejonu Rhade’owi — byæ mo¿e zdo³a go naprawiæ lub wykorzystaæ jego potencja³. Ciê¿ar odpowiedzialnoœci jest niema³y.~
+
+@221=~Gambit Gerarda
+
+Odrzuci³em propozycjê objêcia funkcji mistrza gildii Oka Gorgony. Brakuje mi czasu i chêci, by dŸwigaæ ten ciê¿ar. Zamiast tego wrócê do kryjówki i przeka¿ê pozosta³y fragment Kerykejonu Rhade’owi. Byæ mo¿e jego wiedza pozwoli jeszcze ocaliæ coœ z mocy artefaktu.~
+
+@222=~Nie ma honoru wœród z³odziei
+
+Przyj¹³em ofertê Quassa, by zdradziæ Baldwina i sprzymierzyæ siê ze Z³odziejami Cienia. Ich plan zak³ada pod³o¿enie fa³szywego fragmentu Kerykejonu — œmiertelnej pu³apki, jeœli Baldwin spróbuje go z³o¿yæ. Ukryty agent w szeregach Oka Gorgony ma siê ze mn¹ skontaktowaæ, pos³uguj¹c siê has³em „krótki ³uk Shaaru”. Intryga zosta³a wprawiona w ruch.~
+
+@223=~Nie ma honoru wœród z³odziei
+
+Bez wzbudzania podejrzeñ przekaza³em Baldwinowi fa³szywy fragment Kerykejonu. Teraz pozostaje mi przeczekaæ i oczekiwaæ dalszych instrukcji od Z³odziei Cienia. W tej grze jeden nieostro¿ny ruch mo¿e kosztowaæ ¿ycie.~
+
+@224=~Nie ma honoru wœród z³odziei
+
+Prawdziwe oblicze Rhade’a wysz³o na jaw. Muszê niezw³ocznie siê z nim spotkaæ i ustaliæ kolejne kroki w tej coraz bardziej niebezpiecznej intrydze.~
+
+@225=~Nie ma honoru wœród z³odziei
+
+¯ycie Baldwina dobieg³o koñca, a Kerykejon zosta³ zniszczony i nie nadaje siê ju¿ do naprawy. Jedyny ocala³y fragment spoczywa teraz w moich rêkach — dar wdziêcznoœci od Richarda za nieocenion¹ pomoc.~
+
+
+          ///////////////////////////////////
+          //////// Rigaldo's Quests /////////
+          ///////////////////////////////////
+		  
+		  
+@310=~Nieoszlifowany diament
+
+Moje pierwsze zadanie z ramienia gildii z³odziei Oka Gorgony polega na wykradzeniu diamentu od Zieke’a, pasera urzêduj¹cego w Gospodzie Feldeposta. Muszê zachowaæ szczególn¹ ostro¿noœæ — jego ochroniarze czuwaj¹ uwa¿nie. Aby osi¹gn¹æ cel, bêdê musia³ wykazaæ siê skrytoœci¹ i precyzj¹: albo przeœlizgn¹æ siê obok nich niezauwa¿ony, albo pozbawiæ ich zdolnoœci stawiania oporu.~
+
+@311=~Nieoszlifowany diament
+
+Wykradzenie diamentu by³o moj¹ pierwsz¹ prawdziw¹ prób¹ w szeregach Oka Gorgony. Gospoda Feldeposta tonê³a w pó³mroku i szeptach goœci, a w ka¿dym k¹cie czai³y siê cienie. Gdy wróci³em do Rigalda z klejnotem, wystarczy³o jedno spojrzenie, by wiedzieæ, ¿e zadanie zosta³o wykonane jak nale¿y. W nagrodê wrêczy³ mi magiczny pierœcieñ z³odziejski — znak, ¿e obra³em œcie¿kê, z której trudno zawróciæ.~
+
+@313=~Cena ochrony
+
+Zadanie przybra³o nieoczekiwany obrót. Gdy dotar³em do skrzyni w komnacie Gerarda, zasta³em tam innego z³odzieja, trzymaj¹cego ju¿ w d³oni naszyjnik. NajwyraŸniej nie tylko ja mia³em oko na ten ³up. Dosz³o do walki — nie by³o miejsca na wahanie. Naszyjnik jest teraz mój, a to spotkanie obna¿y³o s³aboœæ ochrony Gerarda.~
+
+@314=~Cena ochrony
+
+Liczy³em na porozumienie, lecz rozmowy z Gerardem spe³z³y na niczym. Jego ludzie pierwsi siêgnêli po broñ, zmuszaj¹c mnie do obrony. Sprawa by³a krwawa, ale skuteczna. Gerard zgodzi³ siê wznowiæ p³atnoœci na rzecz gildii — choæ sta³o siê to pod wyraŸnym przymusem.~
+
+@315=~Pod lemieszem
+
+Rigaldo poleci³ mi spotkaæ siê z Karp, rolniczk¹, która natrafi³a na skryty skarb na w³asnych polach. Dwa magiczne pierœcienie przyci¹gnê³y uwagê gildii nie bez powodu. Muszê podejœæ do niej z wyczuciem i przekonaæ j¹, ¿e oddanie znaleziska przyniesie jej wiêcej po¿ytku ni¿ k³opotów.~
+
+@316=~Pod lemieszem
+
+Dziêki odpowiedniej dozie perswazji uda³o mi siê pozyskaæ pierœcienie od Karp. Teraz pora wróciæ do kryjówki Oka Gorgony i zdaæ Rigaldowi raport z wykonania zadania.~
+
+@317=~Pod lemieszem
+
+Rigaldo przyj¹³ pierœcienie z wyraŸnym zadowoleniem. Ku mojemu zaskoczeniu nalega³, abym zatrzyma³ jeden z nich jako zap³atê za dobrze wykonan¹ robotê. To wyraŸny znak, ¿e zaczynam cieszyæ siê zaufaniem w gildii.~
+
+@318=~Pod lemieszem
+
+Proœba Karp nie daje mi spokoju. Przemycenie jej i syna do Athkatli to powa¿ne przedsiêwziêcie, obarczone ryzykiem. Mimo to spróbujê znaleŸæ kogoœ, kto podejmie siê tej dyskretnej podró¿y. W pó³œwiatku zawsze znajdzie siê ktoœ, kto zna odpowiednie szlaki.~
+
+@319=~Pod lemieszem
+
+Zeda wyrazi³ gotowoœæ pomocy Karp. To dobra wiadomoœæ. Muszê j¹ odnaleŸæ i przekazaæ ustalenia, aby mog³a niezw³ocznie zgromadziæ potrzebne œrodki. Czas odgrywa tu istotn¹ rolê.~
+
+@320=~Pod lemieszem
+
+Karp opuœci³a Beregost wraz z synem, zostawiaj¹c za sob¹ trudn¹ przesz³oœæ. To rzadki widok — ktoœ wyrwa³ siê z cieni, zanim te na dobre go poch³onê³y.~
+
+@321=~Szepty jarmarku
+
+Podjêcie tego zadania wymaga starannego planowania i szybkiego dzia³ania. Przenikaj¹c na jarmark w Nashkel, muszê poruszaæ siê miêdzy zat³oczonymi namiotami i pozostaæ niezauwa¿onym, gdy bêdê wykrada³ broñ kuglarzy. Gdy ju¿ j¹ zdobêdê, kluczowe bêdzie spotkanie z Arioshem i jego ludŸmi za namiotami. Rozdzielenie broni pozwoli im sprawnie przeprowadziæ akcjê, wykorzystuj¹c okazjê, jak¹ stanowi¹ niepilnowane namioty hazardowe.~
+
+@322=~Szepty jarmarku
+
+Maj¹c ju¿ w rêkach og³uszaj¹ce lotki, pomyœlnie przeprowadzi³em pierwszy etap planu. Przekazanie tej broni Arioshowi i jego doœwiadczonym kompanom zapewni³o im odpowiednie przygotowanie do napadu na namioty hazardowe na jarmarku w Nashkel. Teraz powinienem wróciæ do Beregostu i zdaæ Rigaldowi raport z przebiegu akcji.~
+
+@323=~Szepty jarmarku
+
+Rigaldo by³ wyraŸnie zadowolony z rezultatów naszej operacji na jarmarku w Nashkel. Doceni³ moj¹ rolê i hojnie mnie wynagrodzi³, przekazuj¹c mi czêœæ ³upów. To kolejny dowód, ¿e moja pozycja w Oku Gorgony umacnia siê z ka¿dym wykonanym zleceniem.~
+
+@324=~Krwawe kwiaty
+
+Rigaldo powierzy³ mi zajêcie siê Borlandem z Beregostu i jego nielegalnym handlem Czarnym Lotosem. Mam albo zmusiæ go do wspó³pracy i regularnych wp³at na rzecz gildii, albo raz na zawsze zamkn¹æ jego interes i przej¹æ zapasy. Jego dom, po³o¿ony naprzeciwko Czerwonego Snopa we wschodniej czêœci miasta, skrywa te mroczne interesy.~
+
+@325=~Krwawe kwiaty
+
+Uda³o mi siê sk³oniæ Borlanda do zaakceptowania naszych warunków. Nie by³ zadowolony, lecz od teraz bêdzie regularnie odprowadza³ swoj¹ dolê na rzecz Oka Gorgony. Jego handel bêdzie trwa³ dalej — ju¿ pod nasz¹ czujn¹ kontrol¹.~
+
+@326=~Krwawe kwiaty
+
+Dni Borlanda jako handlarza Czarnym Lotosem dobieg³y koñca. Przekona³em go, by raz na zawsze zamkn¹³ swój interes. Ulice Beregostu bêd¹ bezpieczniejsze, gdy ta trucizna przestanie kr¹¿yæ po mieœcie.~
+
+@327=~W kwestii Czarnego Lotosu
+
+Rigaldo, dziêki swoim uk³adom, zdo³a³ przej¹æ dostawcê Borlanda. Powierzy³ mi piêæ funtów Czarnego Lotosu na pierwsz¹ dostawê na jarmark w Nashkel. Nabywca przebywa w najbardziej na wschód wysuniêtym namiocie. Ta transakcja mo¿e znacz¹co wzmocniæ pozycjê gildii.~
+
+@328=~W kwestii Czarnego Lotosu
+
+P³on¹ca Piêœæ okaza³a siê powa¿n¹ przeszkod¹, ¿¹daj¹c ³apówki w postaci jednego funta Czarnego Lotosu w zamian za bezpieczne przejœcie. To kosztowny, lecz konieczny wydatek, jeœli operacja ma zakoñczyæ siê powodzeniem.~
+
+@329=~W kwestii Czarnego Lotosu
+
+Spotkanie z P³on¹c¹ Piêœci¹ przybra³o gwa³towny obrót, gdy odkryli mój nielegalny ³adunek. Nie maj¹c innego wyjœcia, musia³em siêgn¹æ po przemoc, by zapewniæ sobie ucieczkê i ocaliæ resztê towaru.~
+
+@330=~W kwestii Czarnego Lotosu
+
+Po pomyœlnym dostarczeniu Czarnego Lotosu wracam do gildii z pokaŸn¹ sum¹ z³ota. Rigaldo z pewnoœci¹ bêdzie zadowolony z efektów tej transakcji.~
+
+@331=~W kwestii Czarnego Lotosu
+
+Po zabezpieczeniu z³ota z transakcji przekaza³em je Rigaldowi. Jak zwykle okaza³ swoje uznanie, wyp³acaj¹c mi nale¿n¹ nagrodê.~
+
+@332=~W kwestii Czarnego Lotosu
+
+Rigaldo wys³a³ mnie z osobliwym zadaniem. Mam odnaleŸæ Pruflasa, zaszytego w najbardziej na wschód wysuniêtym namiocie Czarnego Lotosu na jarmarku w Nashkel. Z tego, co s³ysza³em, to miejsce pe³ne odurzenia i wystêpku — takie, do którego nie zagl¹da siê bez powodu. Moim celem jest przekonaæ Pruflasa, by porzuci³ to bagno i wróci³ do zaniepokojonej ¿ony. Gdy sprawa siê wyjaœni, wrócê do Rigalda z wieœciami.~
+
+@333=~W kwestii Czarnego Lotosu
+
+Nabywca nie ruszy interesu, dopóki Pruflas krêci siê w pobli¿u. Wygl¹da na to, ¿e muszê siê nim zaj¹æ — po dobroci albo w mniej subtelny sposób. To nie bêdzie zwyk³a rozmowa, a sytuacja mo¿e szybko wymkn¹æ siê spod kontroli. Nie ma jednak odwrotu. Gildia oczekuje rezultatów.~
+
+@334=~W kwestii Czarnego Lotosu
+
+Ku mojemu zaskoczeniu Pruflas sam zapragn¹³ wyrwaæ siê z oparów Czarnego Lotosu. Zwróci³ siê do mnie o pomoc, a ostro¿nie podana dawka przynios³a mu chwilê trzeŸwego olœnienia. Gdy mg³a opad³a, opuœci³ namiot z myœl¹ o powrocie do ¿ony. By³ to rzadki widok — ktoœ jeszcze potrafi³ zawróciæ z tej drogi.~
+
+@335=~W kwestii Czarnego Lotosu
+
+Tragiczny obrót wydarzeñ nast¹pi³, gdy próbowa³em pomóc Pruflasowi odzyskaæ jasnoœæ umys³u. Moja rêka omsknê³a siê i poda³em dawkê zbyt siln¹. Jego cia³o nie wytrzyma³o, a Pruflas zmar³ na miejscu. To gorzkie przypomnienie, jak cienka bywa granica miêdzy pomoc¹ a zgub¹.~
+
+@336=~W kwestii Czarnego Lotosu
+
+Z ulg¹ wróci³em do kryjówki Oka Gorgony. Sprawa Pruflasa zosta³a rozwi¹zana, a ciê¿ar sakiewki Rigalda w mojej d³oni przypomina, ¿e w pó³œwiatku nagroda rzadko przychodzi bez ceny. Zadanie wykonane — pora przygotowaæ siê na kolejne.~
+
+@337=~W kwestii Czarnego Lotosu
+
+Wróci³em do kryjówki Oka Gorgony, a los Pruflasa ci¹¿y mi na sumieniu tylko nieznacznie. To by³ niefortunny fina³, lecz w naszym fachu podobne sprawy zdarzaj¹ siê czêœciej, ni¿ chcia³bym przyznaæ. Rozczarowanie Rigalda by³o do przewidzenia, ale ¿ycie gildii toczy siê dalej — a wahanie nie jest tu mile widziane.~
+
+@338=~Podwaliny intrygi
+
+Zanim wyruszê do Nashkel, warto uporz¹dkowaæ sprawy w Beregoœcie. Liedel wspomina³a o nowych zleceniach, a Gilbald mia³ ponoæ k³opoty w kasynie, które mog¹ przerodziæ siê w coœ powa¿niejszego. Gdy ju¿ zbiorê potrzebne informacje, powinienem udaæ siê do Nashkel i spotkaæ Procusa w pobli¿u placu turniejowego. To tam zapadn¹ decyzje dotycz¹ce dalszej ekspansji Oka Gorgony.~
+
+@339=~Podwaliny intrygi
+
+Procus nie traci³ czasu na uprzejmoœci. Wyjaœni³ mi, ¿e celem gildii jest umocnienie wp³ywów w Nashkel, a pierwszym krokiem bêdzie zdobycie sta³ej bazy operacyjnej. Upatrzony namiot nale¿y do upartego kupca, który nie chce wspó³pracowaæ. Mogê spróbowaæ go przekonaæ, zastraszyæ albo usun¹æ si³¹ — sposób nie ma znaczenia, liczy siê rezultat.~
+
+@340=~Podwaliny intrygi
+
+Kupiec postawi³ twarde warunki. Za towar i namiot za¿¹da³ piêciuset sztuk z³ota. To wygórowana cena, ale jeœli mamy tu zostaæ na d³u¿ej, muszê znaleŸæ sposób, by zdobyæ potrzebne pieni¹dze. Bez nich plan Procusa utknie w martwym punkcie.~
+
+@341=~Podwaliny intrygi
+
+Kupiec znikn¹³ z Nashkel, pozostawiaj¹c po sobie pusty namiot. Niezale¿nie od tego, czy uciek³ z obawy, czy zosta³ do tego zmuszony, efekt jest ten sam. Mamy miejsce, które mo¿e pos³u¿yæ za kryjówkê i punkt oparcia dla dalszych dzia³añ Oka Gorgony.~
+
+@342=~Podwaliny intrygi
+
+Wróci³em do Procusa z wieœciami o przejêciu namiotu. Przyj¹³ je z widoczn¹ satysfakcj¹, choæ zaznaczy³, ¿e to dopiero pocz¹tek. Zanim baza zacznie dzia³aæ pe³n¹ par¹, trzeba dopilnowaæ ostatnich przygotowañ i zabezpieczyæ nasze interesy.~
+
+@343=~Podwaliny intrygi
+
+Kolejnym krokiem jest pozyskanie ludzi. Procus poleci³ mi zwerbowaæ niezale¿nych ³otrów krêc¹cych siê w pó³nocnej czêœci namiotu Czarnego Lotosu. Wœród nich wyró¿nia siê Selena Gwiezdny Wir z Wysp Piratów, znana ze sprytu i bezwzglêdnoœci. Muszê ich przekonaæ, ¿e wspó³praca z Okiem Gorgony przyniesie wiêksze zyski ni¿ samotne dzia³anie.~
+
+@344=~Podwaliny intrygi
+
+Rozmowy z Selen¹ Gwiezdny Wir i jej ludŸmi nie przynios³y porozumienia. Szybko sta³o siê jasne, ¿e nie zamierzaj¹ podporz¹dkowaæ siê gildii. Spór przerodzi³ siê w walkê, któr¹ prze¿y³a tylko jedna strona. Ich opór zosta³ z³amany, a Nashkel pozbawione kolejnej przeszkody.~
+
+@345=~Podwaliny intrygi
+
+Uda³o mi siê dojœæ do porozumienia z Selen¹ Gwiezdny Wir. W zamian za odzyskanie wa¿nych dokumentów z koszar armii Amnu zgodzi³a siê ona wraz ze swoj¹ za³og¹ zasiliæ szeregi Oka Gorgony. To ryzykowny sojusz, ale w pó³œwiatku Nashkel ka¿da para r¹k ma znaczenie.~
+
+@346=~Podwaliny intrygi
+
+Dokumenty z koszar armii Amnu wróci³y w rêce Seleny. Zgodnie z umow¹ ona i jej ludzie maj¹ stawiæ siê w naszej nowej kwaterze. Jeœli dotrzymaj¹ s³owa, Oko Gorgony zyska w Nashkel solidne wsparcie.~
+
+@347=~Podwaliny intrygi
+
+Procus wskaza³ mi trzy Ÿród³a pieniêdzy, które maj¹ zapewniæ stabilnoœæ naszej bazy: handlarza miksturami na jarmarku, zamo¿n¹ posiad³oœæ w mieœcie oraz jedn¹ z lokalnych gospód. Ka¿de z tych miejsc wymaga innego podejœcia, ale z ka¿dego muszê wróciæ z ³upem.~
+
+@348=~Podwaliny intrygi
+
+Powrót do Procusa przyniós³ dobre wieœci. Z³oto zosta³o zdobyte, a plan dzia³a bez zarzutu. Mamy bazê, ludzi i œrodki, by dzia³aæ dalej. Nashkel powoli zaczyna ulegaæ wp³ywom Oka Gorgony.~
+
+@349=~Podwaliny intrygi
+
+Nasza obecnoœæ w Nashkel jest ju¿ faktem. Intryga zosta³a osadzona na solidnych fundamentach, a Oko Gorgony zyska³o tu punkt zaczepienia. Teraz pozostaje obserwowaæ, kto pierwszy spróbuje podwa¿yæ nasz¹ pozycjê.~
+
+@350=~Cienie wiedzy
+
+Rigaldo zleci³ mi zadanie delikatniejsze ni¿ wiêkszoœæ dotychczasowych. Mam odzyskaæ Grymuar Zapomnianych Tajemnic Netherilu — ksiêgê, której mocy obawiaj¹ siê nawet Zaprzysiê¿eni. Ostrzeg³ mnie, ¿e artefakt przyci¹ga nieszczêœcie, a jego u¿ycie zawsze ma swoj¹ cenê. Trop prowadzi do Wrót Baldura. Tam mam spotkaæ siê z Ravenscarem i dowiedzieæ siê wiêcej.~
+
+@351=~Cienie wiedzy
+
+Spotkanie z Ravenscarem zakoñczy³o siê krwawo. On i jego ludzie nie ¿yj¹, a ja zosta³em z pytaniami, na które nie ma ³atwych odpowiedzi. Taki rozg³os nie sprzyja pracy w cieniu, lecz nie mog³em pozwoliæ, by Grymuar trafi³ w niepowo³ane rêce. Muszê wróciæ do Wrót Baldura i ostro¿nie szukaæ dalszych œladów na czarnym rynku.~
+
+@352=~Cienie wiedzy
+
+Przed œmierci¹ Ravenscar wspomnia³ o czarnym rynku we Wrotach Baldura. To tam, wœród szemranych handlarzy i tajnych transakcji, powinienem kontynuowaæ poszukiwania Grymuaru. Ka¿dy krok w tym miejscu wymaga czujnoœci — jedno z³e s³owo mo¿e œci¹gn¹æ na mnie niechcian¹ uwagê.~
+
+@353=~Cienie wiedzy
+
+Tej nocy dzia³am na polecenie Sorena. W Gospodzie Keexie, na drugim piêtrze, mam pods³uchaæ tajne spotkanie kapitan Velendry z P³on¹cej Piêœci z zagranicznymi kupcami. Soren wyraŸnie mnie ostrzeg³: „¯adnych mikstur, ¿adnych czarów”. Muszê polegaæ wy³¹cznie na sprycie i ciszy.~
+
+@354=~Cienie wiedzy
+
+Plan zawiód³ szybciej, ni¿ siê spodziewa³em. Kapitan Velendra mnie zauwa¿y³a i zbieg³a, zanim zdo³a³em us³yszeæ cokolwiek istotnego. Pozostaje mi wróciæ do Sorena z pustymi rêkami i przyznaæ siê do pora¿ki.~
+
+@355=~Cienie wiedzy
+
+Tym razem fortuna mi sprzyja³a. Zdo³a³em pods³uchaæ rozmowê kapitan Velendry z kupcem Thaldorem. Przywióz³ z Mirabaru nieska¿on¹ broñ, gromadzon¹ na wypadek zbli¿aj¹cego siê „kryzysu ¿elaza”. Jutro maj¹ spotkaæ siê przy pó³nocnych bramach Wrót Baldura. To cenna informacja, któr¹ muszê niezw³ocznie przekazaæ Sorenowi.~
+
+@356=~Cienie wiedzy
+
+Wracam do Sorena z tym, co uda³o mi siê zdobyæ. Wiedza, choæ zdobyta z trudem, bywa cenniejsza ni¿ z³oto. Jeœli dobrze rozegramy ten trop, Grymuar Zapomnianych Tajemnic Netherilu w koñcu trafi tam, gdzie powinien — z dala od chciwych r¹k i niepowo³anych umys³ów.~
+
+@357=~Cienie wiedzy
+
+Soren dotrzyma³ s³owa i zdradzi³ mi miejsce, gdzie maj¹ pojawiæ siê zaginione tomy. Tej nocy trafi¹ na nabrze¿a Wrót Baldura, w pobli¿u Œwi¹tyni Umberlee. To moja szansa, by odzyskaæ Grymuar Zapomnianych Tajemnic Netherilu. Muszê dzia³aæ szybko i ostro¿nie — taka okazja nie trafia siê dwa razy.~
+
+@358=~Cienie wiedzy
+
+Trzymam w d³oniach Grymuar Zapomnianych Tajemnic Netherilu, a wraz z nim ciê¿ar minionych wieków. Ka¿da karta emanuje zapomnian¹ potêg¹ i wiedz¹, której œwiat dawno nie widzia³. To nie jest zwyk³a ksiêga — to relikt epoki, która powinna by³a pozostaæ w cieniu. Muszê postêpowaæ rozwa¿nie. Teraz pora wróciæ do Rigalda.~
+
+@359=~Cienie wiedzy
+
+Zadanie dla Candlekeep zosta³o wykonane. Grymuar Netherilu wróci³ w rêce mnichów, a gildyjne szkatu³y znacznie siê wype³ni³y. Rigaldo by³ wyraŸnie zadowolony z rezultatu i nie szczêdzi³ nagrody. To by³ dobry dzieñ dla z³odzieja. Teraz mogê rozejrzeæ siê za kolejnym zleceniem — miasto pe³ne jest okazji.~
+
+@360=~Cena ochrony
+
+Po raz kolejny s³owa okaza³y siê skuteczniejsze ni¿ ostrze. Uda³o mi siê przekonaæ Gerarda, by wznowi³ p³atnoœci na rzecz gildii. Nie by³o to ³atwe — jego duma stawia³a opór — lecz ostatecznie rozs¹dek zwyciê¿y³. Ochrona Oka Gorgony znów ma swoj¹ cenê.~
+
+@361=~Cena ochrony
+
+Po z³o¿eniu raportu Rigaldowi nie czeka³em d³ugo na konsekwencje. Bez zbêdnych ceremonii awansowa³ mnie na pe³noprawnego cz³onka Oka Gorgony. Jedno skinienie g³owy wystarczy³o, bym zrozumia³, ¿e obdarzono mnie zaufaniem. Od teraz gram wy¿ej — a stawka roœnie.~
+
+@362=~Krwawe kwiaty
+
+Zda³em Rigaldowi relacjê z uk³adu zawartego z Borlandem. Jego interes bêdzie dzia³a³ dalej, lecz od teraz czêœæ zysków zasili skarbiec Oka Gorgony. Rigaldo przyj¹³ to z wyraŸnym zadowoleniem. Otrzyma³em swoj¹ dzia³kê — subtelne zwyciêstwo bywa czasem cenniejsze ni¿ otwarta przemoc.~
+
+@363=~Krwawe kwiaty
+
+Poinformowa³em Rigalda o definitywnym zamkniêciu interesu Borlanda. Uzna³ to za s³uszn¹ decyzjê — jeden nieprzewidywalny element mniej w Beregoœcie. Oko Gorgony umocni³o swój uœcisk, a ja otrzyma³em nale¿n¹ nagrodê za trudny wybór.~
+
+          ///////////////////////////////////
+          ///////// Liedel's Quests /////////
+          ///////////////////////////////////
+          
+		  
+@410=~Zlecenie Liedel: Carth
+
+Liedel poinformowa³a mnie o mê¿czyŸnie imieniem Carth, który narazi³ siê Zhentarimom. Nie uregulowa³ swoich d³ugów i teraz wyznaczono za niego nagrodê. Mam przeszukaæ gospody i karczmy na pó³noc od Traktu Wybrze¿a i odnaleŸæ go, zanim zrobi to ktoœ inny. To nie bêdzie ³atwe zadanie, ale zap³ata powinna wynagrodziæ trud.~
+
+@411=~Zlecenie Liedel: Carth
+
+Carth nie okaza³ siê groŸnym przeciwnikiem. Odnalaz³em go w Gospodzie „Pod Pomocn¹ D³oni¹”, gdzie ukrywa³ siê w jednym z pokoi. Rozprawienie siê z nim by³o szybkie i bezproblemowe. Teraz mogê wróciæ do Liedel po nale¿n¹ nagrodê.~
+
+@412=~Zlecenie Liedel: Carth
+
+Carth, z wyznaczon¹ nagrod¹ za g³owê, trz¹s³ siê ze strachu w pokoju Gospody „Pod Pomocn¹ D³oni¹”. Zamiast wykonaæ zlecenie, poczu³em wobec niego nieoczekiwan¹ litoœæ. Da³em mu 300 sztuk z³ota, by móg³ sp³aciæ d³ug i znikn¹æ z pola widzenia Zhentarimów. Teraz muszê stan¹æ przed Liedel i wyt³umaczyæ siê ze swojej decyzji.~
+
+@413=~Zlecenie Liedel: Carth
+
+Po odnalezieniu Cartha odebra³em nagrodê za wykonanie zlecenia — 500 sztuk z³ota. Sprawa zosta³a zamkniêta, a sakiewka sta³a siê ciê¿sza. Tak w³aœnie koñcz¹ siê tego typu historie.~
+
+@414=~Zlecenie Liedel: Carth
+
+Liedel otrzyma³a ju¿ wiadomoœæ, ¿e zlecenie na Cartha zosta³o anulowane. NajwyraŸniej zd¹¿y³ umkn¹æ, zanim ktoœ zajrza³ do kuchni Gospody „Pod Pomocn¹ D³oni¹”. Tym razem los pozwoli³ mu znikn¹æ.~
+
+@415=~Zlecenie Liedel: Vapula Simberg
+
+Wyznaczono nagrodê za ³otra imieniem Vapula Simberg. Zdradzi³ swoich dawnych towarzyszy z gildii we Wrotach Baldura, sk³adaj¹c przeciw nim zeznania, po czym znikn¹³. Powinienem szukaæ go w œwi¹tyniach — to tam czêsto trafiaj¹ ci, którzy próbuj¹ odkupiæ dawne winy albo znaleŸæ schronienie.~
+
+@416=~Zlecenie Liedel: Vapula Simberg
+
+Odnalaz³em Vapulê w Œwi¹tyni Lathandera w Beregoœcie. Wyzwa³ mnie na pojedynek, nazywaj¹c go „prób¹ walki pod okiem bogów”. Starcie by³o krótkie, a los okaza³ siê po mojej stronie. Teraz powinienem zanieœæ jego wisior Liedel jako dowód wykonania zlecenia.~
+
+@417=~Zlecenie Liedel: Vapula Simberg
+
+Odnalaz³em Vapulê w Œwi¹tyni Lathandera w Beregoœcie. Porzuci³ dawne ¿ycie i obra³ drogê pobo¿noœci. Zdecydowa³em siê oszczêdziæ mu ¿ycie. Odda³ mi swój wisior, abym przekaza³ go Liedel — niech jego dawni wrogowie uznaj¹ go za martwego. Mo¿e w ten sposób odkupi swoje grzechy.~
+
+@418=~Zlecenie Liedel: Vapula Simberg
+
+Odda³em wisior Vapuli Liedel i w nagrodê otrzyma³em 500 sztuk z³ota. Sprawa zosta³a zamkniêta, a przesz³oœæ Simberga — przynajmniej oficjalnie — przesta³a istnieæ.~
+
+@419=~Zlecenie Liedel: Aisha
+
+Wyznaczono nagrodê za kurtuzanê imieniem Aisha. Podobno znalaz³a schronienie w Beregoœcie, nie maj¹c ani rodziny, ani œrodków, by uciec dalej. Mam dyskretnie przeszukaæ miasto i odnaleŸæ jej kryjówkê, zanim sprawa wymknie siê spod kontroli.~
+
+@420=~Zlecenie Liedel: Aisha
+
+¯ycie Aishy dobieg³o koñca, zgodnie z poleceniem Liedel. By³o to konieczne, by dope³niæ warunków zlecenia. Teraz pozostaje wróciæ po nagrodê. W tym fachu nie ma miejsca na sentymenty.~
+
+@421=~Zlecenie Liedel: Aisha
+
+Zanim podejmê ostateczn¹ decyzjê w sprawie Aishy, chcê porozmawiaæ z Amriusem — cz³owiekiem, który wyznaczy³ nagrodê. Mo¿na go znaleŸæ w P³on¹cym Czarodzieju w Beregoœcie. Byæ mo¿e ca³a ta historia ma drugie dno.~
+
+@422=~Zlecenie Liedel: Aisha
+
+Po serii rozmów uda³o mi siê przekonaæ Amriusa do cofniêcia nagrody za Aishê. Nie by³o to ³atwe, lecz jego determinacja w koñcu os³ab³a. Teraz powinienem przekazaæ Aishy, ¿e zagro¿enie minê³o.~
+
+@423=~Zlecenie Liedel: Aisha
+
+Poinformowa³em Aishê, ¿e nagroda za jej g³owê zosta³a cofniêta. Jej reakcja by³a jednak daleka od ulgi. Okaza³a siê gwa³towna i pe³na gniewu, jakby pod powierzchni¹ kry³o siê coœ wiêcej. Coraz wyraŸniej czujê, ¿e ta sprawa nie zosta³a jeszcze w pe³ni wyjaœniona.~
+
+@424=~Zlecenie Liedel: Aisha
+
+Rozmawia³em z Liedel, która potwierdzi³a, ¿e Amrius oficjalnie wycofa³ zlecenie na Aishê. Tym razem sprawa zakoñczy³a siê bez rozlewu krwi — rzadki fina³ w tym fachu.~
+
+@425=~Zlecenie Liedel: Aisha
+
+Przekaza³em Liedel, ¿e Aisha zginê³a z mojej rêki. W zamian otrzyma³em 500 sztuk z³ota. Kolejne zlecenie zosta³o zamkniête, a miasto toczy siê dalej, jakby nic siê nie sta³o.~
+
+
+@426=~Zlecenie Liedel: Europea
+
+Liedel zleci³a mi odnalezienie zbieg³ej niewolnicy imieniem Europea. Uciek³a w zachodnie lasy za Beregostem. Jeœli uda mi siê sprowadziæ j¹ ¿yw¹, nagroda zostanie podwojona. Jeœli jednak zginie, jej obro¿a niewolnicza pos³u¿y jako dowód wykonania zadania. Czas rozpocz¹æ polowanie.~
+
+@427=~Zlecenie Liedel: Europea
+
+Wytropi³em Europê, lecz wygl¹da na to, ¿e inna grupa ³owców nagród dotar³a do niej przede mn¹. Dosz³o do starcia, z którego wyszed³em zwyciêsko. Europea by³a ciê¿ko ranna i ledwie trzyma³a siê przy ¿yciu. Wspomnia³a o jakimœ zamku na pó³nocy — byæ mo¿e to trop prowadz¹cy do jej przesz³oœci sprzed niewoli.~
+
+@428=~Zlecenie Liedel: Europea
+
+„Zamek”, o którym mówi³a Europea, okaza³ siê Gospod¹ „Pod Pomocn¹ D³oni¹”. Gdy tylko tam dotarliœmy, kap³an œwi¹tyni rozpozna³ dziewczynê. Ostro¿nie zdj¹³ z niej obro¿ê niewolnicz¹ — znak lat upokorzenia i strachu. Z obro¿¹ w rêku mogê wróciæ do Liedel i zakoñczyæ to zlecenie.~
+
+@429=~Zlecenie Liedel: Europea
+
+Oddanie obro¿y Europy Liedel przynios³o mi nieoczekiwane poczucie ulgi. Nagroda by³a tylko dodatkiem — prawdziw¹ satysfakcjê dawa³a œwiadomoœæ, ¿e dziewczyna znalaz³a siê w bezpiecznym miejscu, z dala od tych, którzy chcieli j¹ skrzywdziæ.~
+
+@430=~Zlecenie Liedel: Europea
+
+Gdy doprowadzi³em Europê do Liedel, jej reakcja by³a inna, ni¿ siê spodziewa³em. Powiedzia³a, ¿e wykorzystywanie niewinnoœci dziecka to granica, której nie zamierza przekraczaæ — nawet w tym fachu. Jej decyzja, by ochroniæ Europê i zamkn¹æ sprawê, by³a rzadkim przejawem zasad w œwiecie, który zwykle ich nie zna.~
+
+@431=~Zlecenie Liedel: Katreda
+
+Liedel poinformowa³a mnie o zleceniu dotycz¹cym driady imieniem Katreda, która sieje niepokój w Lesie Larswood. Myœliwi domagaj¹ siê rozwi¹zania problemu. Muszê zdecydowaæ, czy spróbowaæ j¹ nak³oniæ do odejœcia, czy te¿ siêgn¹æ po bardziej radykalne œrodki. Wybór ten ci¹¿y mi bardziej, ni¿ bym chcia³.~
+
+@432=~Zlecenie Liedel: Katreda
+
+Katreda nie pozostawi³a mi wyboru. Musia³em zakoñczyæ jej ¿ycie. Spokój myœliwych zosta³ okupiony wysok¹ cen¹, a echo tego czynu d³ugo nie da mi o sobie zapomnieæ. Teraz powinienem wróciæ do Liedel i zdaæ jej relacjê.~
+
+@433=~Zlecenie Liedel: Katreda
+
+Poinformowa³em Liedel, ¿e zagro¿enie ze strony Katredy zosta³o za¿egnane. Otrzyma³em standardow¹ nagrodê — 500 sztuk z³ota. To ponury fach, ale ktoœ musi go wykonywaæ.~
+
+@434=~Zlecenie Liedel: Katreda
+
+Zdecydowa³em siê stan¹æ po stronie Katredy i wyst¹piæ przeciw myœliwym. Znajduj¹ siê niedaleko, na po³udniu. Jeœli maj¹ odejœæ, zrobi¹ to si³¹.~
+
+@435=~Zlecenie Liedel: Katreda
+
+Myœliwi zostali pokonani. Ich wyprawa do Lasu Larswood dobieg³a koñca. Teraz mogê wróciæ do Katredy i przekazaæ jej, ¿e zagro¿enie minê³o.~
+
+@436=~Zlecenie Liedel: Katreda
+
+Katreda okaza³a wdziêcznoœæ, obdarowuj¹c mnie magicznym amuletem. Wygl¹da na to, ¿e decyzja, by jej pomóc, nie pozosta³a bez nagrody. Zachowam ten dar — byæ mo¿e jeszcze siê przyda.~
+
+@437=~Zlecenie Liedel: Katreda
+
+Zlecenie dotycz¹ce Katredy mo¿na uznaæ za zakoñczone. Przymierze z driad¹ mo¿e przynieœæ nieoczekiwane korzyœci w przysz³oœci. W œwiecie pe³nym topornej przemocy rzadko trafia siê taki sojusz.~
+
+@438=~Zlecenie Liedel: Zhontac
+
+Nekromanta imieniem Zhontac poszukuje zw³ok do swoich makabrycznych eksperymentów. Nocami krêci siê po swoim podwórzu we wschodniej czêœci Beregostu. To tam powinienem go odnaleŸæ i dowiedzieæ siê, czego naprawdê chce.~
+
+@439=~Zlecenie Liedel: Zhontac
+
+Zhontac z³o¿y³ mi odra¿aj¹c¹ propozycjê. Za¿¹da³ œmierci mê¿czyzny imieniem Magnus, który za dnia przesiaduje przy po³udniowych fontannach Beregostu. Chce, abym dostarczy³ mu cia³o do jego plugawych badañ. Ta sprawa œmierdzi od samego pocz¹tku.~
+
+@440=~Zlecenie Liedel: Zhontac
+
+Nie potrafi³em spe³niæ chorego ¿¹dania Zhontaca. Zamiast tego zakoñczy³em jego pokrêtn¹ egzystencjê. Teraz muszê wróciæ do Liedel i poinformowaæ j¹, ¿e zlecenie przesta³o istnieæ.~
+
+@441=~Zlecenie Liedel: Zhontac
+
+Magnus zgin¹³ z mojej rêki. Pozostaje mi teraz dostarczyæ jego cia³o Zhontacowi, zgodnie z umow¹. Nekromanta czeka po zmroku na swoim podwórzu. To zadanie budzi we mnie niesmak, lecz dane s³owo wi¹¿e.~
+
+@442=~Zlecenie Liedel: Zhontac
+
+Stan¹³em dziœ przed wyborem, którego ³atwo nie zapomnê. Zamiast staæ siê wspólnikiem morderstwa, ostrzeg³em Magnusa przed zamiarami Zhontaca. To drobny akt sprzeciwu wobec mroku, który zdaje siê przenikaæ ka¿dy zak¹tek tego miasta. Teraz muszê zdecydowaæ, co dalej.~
+
+@443=~Zlecenie Liedel: Zhontac
+
+Po d³ugim namyœle postanowi³em pozwoliæ Zhontacowi kontynuowaæ swoje badania. To decyzja balansuj¹ca na granicy moralnoœci, lecz byæ mo¿e jego praca doprowadzi do odkryæ, które zmieni¹ bieg wielu spraw. W œwiecie cieni granice dobra i z³a bywaj¹ niepokoj¹co p³ynne.~
+
+@444=~Zlecenie Liedel: Zhontac
+
+Rozmawia³em z Liedel o swojej decyzji dotycz¹cej Zhontaca. By³a wyraŸnie zaskoczona, a mo¿e nawet zaniepokojona. Dla mnie jednak by³ to wybór przemyœlany. W tym fachu czasem trzeba pogodziæ siê z brudem, by iœæ dalej.~
+
+@445=~Zlecenie Liedel: Zhontac
+
+Dziœ domkn¹³em chore zlecenie Zhontaca. Dostarczy³em mu to, czego pragn¹³, a przy okazji odebra³em równie¿ nagrodê wyznaczon¹ za jego w³asn¹ g³owê. Podwójna zap³ata nie zma¿e ciê¿aru tej sprawy, ale sakiewka nie pozostanie pusta.~
+
+@446=~Zlecenie Liedel: Zhontac
+
+Zda³em Liedel relacjê ze œmierci Zhontaca. Nie spe³ni³em jego odra¿aj¹cego ¿¹dania, oszczêdzaj¹c tym samym niewinnego cz³owieka. Liedel przyjê³a to bez komentarza i wrêczy³a mi standardow¹ nagrodê — 500 sztuk z³ota. Tak koñcz¹ siê sprawy, o których lepiej nie opowiadaæ przy œwietle dnia.~
+
+
+@447=~Zlecenie Liedel: Alaric
+
+Alaric, alchemik pracuj¹cy nad serum piórop³uca, sta³ siê celem gildiowego zlecenia. Opracowany przez niego œrodek mo¿e zostaæ sprzedany kupcom, którzy widz¹ w nim Ÿród³o ogromnych zysków, albo przekazany kap³anom, pragn¹cym wykorzystaæ go dla dobra chorych. Mówi siê, ¿e Alaric prowadzi swój warsztat gdzieœ we Wrotach Baldura, poœród osobliwych narzêdzi i efektów eksperymentów. Wybór nie bêdzie prosty. Muszê rozwa¿yæ konsekwencje bardzo uwa¿nie — stawka jest wysoka, a od mojej decyzji mo¿e zale¿eæ los wielu istnieñ.~
+
+@448=~Zlecenie Liedel: Alaric
+
+Zlecenie dotycz¹ce Alarica zosta³o wykonane. Obezw³adni³em go w jego warsztacie i przej¹³em serum. By³ wyraŸnie niezrównowa¿ony, lecz nie mog³em pozwoliæ, by zatrzyma³ preparat wy³¹cznie dla siebie. Teraz œrodek jest w moich rêkach. Przede mn¹ trudny wybór: oddaæ go uzdrowicielom albo sprzedaæ kupcom i zapewniæ gildii znaczne zyski.~
+
+@449=~Zlecenie Liedel: Alaric
+
+Próbowa³em przemówiæ Alaricowi do rozs¹dku, lecz by³ ca³kowicie poch³oniêty swoj¹ obsesj¹. W przyp³ywie szaleñstwa zaatakowa³ mnie, nie pozostawiaj¹c wyboru. Starcie zakoñczy³o siê jego œmierci¹. Zabieraj¹c serum, poczu³em jednoczeœnie ulgê i ciê¿ar straty — wraz z nim zginê³a tajemnica jego badañ i sens jego dziwacznych eksperymentów. Teraz znów stojê przed wyborem: uzdrowiciele czy kupcy.~
+
+@450=~Zlecenie Liedel: Alaric
+
+Postanowi³em przekazaæ serum uzdrowicielom. To s³uszna decyzja, choæ kupcy oferowali znacznie wy¿sz¹ zap³atê. Perspektywa uratowania wielu istnieñ przewa¿y³a nad pokus¹ zysku. Czas poka¿e, czy by³a to w³aœciwa droga.~
+
+@451=~Zlecenie Liedel: Alaric
+
+Zdecydowa³em siê sprzedaæ serum kupcom. Interesy gildii i zysk wziê³y górê nad wspó³czuciem. Nagroda by³a wysoka, a wp³ywy Oka Gorgony wzros³y. To wybór obarczony konsekwencjami, lecz w tym œwiecie rzadko trafiaj¹ siê decyzje bez ceny.~
+
+@453=~Zlecenie Liedel: Lord Varlind
+
+Spotkanie z lordem Varlindem okaza³o siê intryguj¹cym zwrotem wydarzeñ. W œwiecie polityki Wrót Baldura ka¿dy ruch mo¿e otworzyæ nowe mo¿liwoœci — albo sprowadziæ zgubê. Moja decyzja zapad³a szybko. Teraz pozostaje obserwowaæ, jak wp³ynie ona na uk³ad si³ w mieœcie.~
+
+@454=~Zlecenie Liedel: Lord Varlind
+
+Stan¹³em przed wyborem, który nie nale¿a³ do ³atwych. Przywi¹zanie lorda Varlinda do Wrót Baldura by³o szczere i nie potrafi³em staæ siê zwiastunem jego œmierci. Co przyniesie jutro miastu, pozostaje niepewne, lecz czasem powstrzymanie ostrza jest równie znacz¹ce jak jego u¿ycie.~
+
+@455=~Zlecenie Liedel: Lord Varlind
+
+Polityczna scena Wrót Baldura zadr¿a³a w posadach. Los Varlinda zosta³ przes¹dzony, nios¹c ze sob¹ zarówno widmo chaosu, jak i nowe mo¿liwoœci. Z³oto jest mi³ym dodatkiem, lecz prawdziwa wartoœæ tkwi w skutkach, jakie ten czyn wywo³a w ca³ym mieœcie.~
+
+@456=~Zlecenie Liedel: Lord Varlind
+
+Gra o w³adzê we Wrotach Baldura jest bezlitosna. Los Varlinda nie nale¿a³ do mnie — ktoœ inny siêgn¹³ po nagrodê. Sieæ intryg gêstnieje, a moja rola w tej rozgrywce wci¹¿ pozostaje niejasna. Tym razem z³oto mnie ominê³o, lecz stawka roœnie z ka¿dym kolejnym ruchem.~
+
+@457=~Zlecenie Liedel: Isla Mroczny P³aszcz
+
+Otrzyma³em zlecenie na Islê Mroczny P³aszcz — niegdyœ czempionkê Areny, dziœ bezwzglêdn¹ zabójczyniê. Jej reputacja budzi respekt nawet wœród doœwiadczonych ³owców nagród. Odnalezienie jej nie bêdzie ³atwe; zniknê³a z widoku i nauczy³a siê ¿yæ w cieniu. Liedel poradzi³a, bym zacz¹³ od kontaktów w pó³œwiatku. To polowanie zapowiada siê na d³ugie i niebezpieczne.~
+
+@458=~Zlecenie Liedel: Isla Mroczny P³aszcz
+
+Czarne rynki s¹ miejscem, gdzie b³¹d kosztuje ¿ycie. Isla doskonale o tym wie i jasno da³a do zrozumienia, ¿e otwarta walka nie wchodzi tu w grê. Jedyn¹ drog¹, by stan¹æ z ni¹ twarz¹ w twarz, jest zdobycie tytu³u czempiona Aren. Próby bêd¹ brutalne, a rywale bezlitoœni. Jeœli jednak chcê dopaœæ Islê na w³asnych warunkach, muszê podj¹æ to wyzwanie.~
+
+@459=~Zlecenie Liedel: Isla Mroczny P³aszcz
+
+Nadszed³ dzieñ rozstrzygniêcia. Isla Mroczny P³aszcz zgodzi³a siê stan¹æ ze mn¹ do walki na œmieræ i ¿ycie. W jej spojrzeniu dostrzeg³em dawny ogieñ — jakby powrót na arenê obudzi³ w niej coœ, co od dawna by³o uœpione. T³um zbierze siê, by byæ œwiadkiem starcia, a Diomedes dopilnuje przygotowañ. Gdy kurz opadnie, tylko jeden z nas pozostanie na nogach.~
+
+@460=~Zlecenie Liedel: Isla Mroczny P³aszcz
+
+Zwyciê¿y³em. Isla poleg³a, a ja zosta³em niekwestionowanym czempionem Aren. Ryk t³umu d³ugo jeszcze odbija³ siê echem w moich uszach. To zwyciêstwo zamyka ten rozdzia³, lecz wiem, ¿e ka¿dy taki triumf pozostawia œlad. Teraz powinienem wróciæ do Liedel i zdaæ raport.~
+
+@461=~Zlecenie Liedel: Isla Mroczny P³aszcz
+
+Wracaj¹c do Liedel, czujê mieszaninê satysfakcji i niepokoju. To zlecenie by³o czymœ wiêcej ni¿ zwyk³ym polowaniem. W trakcie walki pojawi³o siê zrozumienie — milcz¹ce porozumienie dwojga wojowników. Arena mnie ukszta³towa³a, a ta walka zmieni³a na zawsze.~
+
+@462=~Zlecenie Liedel: Isla Mroczny P³aszcz
+
+Spotka³em siê z Sorenem na czarnych rynkach. Obieca³ informacje o Isli, lecz za wysok¹ cenê. Aby je zdobyæ, muszê w³amaæ siê do siedziby P³on¹cej Piêœci i wykraœæ okreœlone dokumenty. To ryzykowne zadanie, ale mo¿e byæ jedyn¹ drog¹, by dopaœæ Islê poza aren¹.~
+
+@463=~Zlecenie Liedel: Isla Mroczny P³aszcz
+
+Dostarczy³em Sorenowi dokumenty z siedziby P³on¹cej Piêœci. W zamian wskaza³ mi trop prowadz¹cy do Isli. Podobno wiêkszoœæ nocy spêdza w gospodzie niedaleko bram miasta, zawsze trzymaj¹c siê blisko wyjœcia. To w¹t³a wskazówka, lecz lepszej nie mam.~
+
+@464=~Zlecenie Liedel: Isla Mroczny P³aszcz
+
+Reputacja Isli nie by³a przesadzona. Walka by³a d³uga i wyczerpuj¹ca, wystawi³a na próbê wszystkie moje umiejêtnoœci. Ostatecznie jednak to ja wyszed³em z niej zwyciêsko. Nie co dzieñ obala siê legendê, a ciê¿ar tego triumfu jest trudny do zignorowania.~
+
+@465=~Zlecenie Liedel: Isla Mroczny P³aszcz
+
+Mimo jej doœwiadczenia i s³awy by³ej czempionki, zdo³a³em pokonaæ Islê w starciu, które zapamiêtam na d³ugo. Liedel by³a pod wra¿eniem, ale i zaintrygowana. To zwyciêstwo wiele znaczy, lecz pozostawia mnie z pytaniami o drogê, któr¹ obra³em, i bitwy, które jeszcze przede mn¹. Ka¿de takie starcie kszta³tuje mnie coraz bardziej.~
+
+@466=~Zlecenie Liedel: Aisha
+
+Rozmowa z Amriusem rzuci³a nowe œwiat³o na ca³¹ sprawê. Twierdzi, ¿e to Aisha zachowa³a siê agresywnie, ow³adniêta zazdroœci¹ na widok jego towarzystwa z inn¹ kobiet¹. Wed³ug niego to ona pierwsza zaatakowa³a, wywo³uj¹c awanturê w karczmie. Ta wersja wydarzeñ podaje w w¹tpliwoœæ wczeœniejsze s³owa Aishy. Muszê dotrzeæ do prawdy — niezale¿nie od tego, po której stronie ona le¿y.~
+
+@467=~Zlecenie Liedel: Aisha
+
+Amrius zgodzi³ siê wycofaæ zlecenie na Aishê, lecz postawi³ zaporowy warunek — tysi¹c sztuk z³ota. Brzmi to jak jawne wymuszenie, lecz mo¿e byæ jedyn¹ drog¹, by zakoñczyæ sprawê bez dalszego rozlewu krwi. Waham siê miêdzy ogromnym kosztem a poczuciem obowi¹zku. Ta decyzja nie przyjdzie ³atwo.~
+
+@468=~Zlecenie Liedel: Aisha
+
+Gdy skonfrontowa³em Aishê z wersj¹ wydarzeñ przedstawion¹ przez Amriusa, jej reakcja by³a gwa³towna i pe³na jadu. Wybuch³a oskar¿eniami pod adresem Ileny, ods³aniaj¹c zupe³nie inne oblicze ni¿ to, które pokazywa³a wczeœniej. Zazdroœæ i gniew buzowa³y tu¿ pod powierzchni¹. Coraz wyraŸniej widzê, ¿e ta historia jest znacznie bardziej z³o¿ona. Powinienem porozmawiaæ z Ilen¹ w kryjówce Oka Gorgony i wys³uchaæ tak¿e jej wersji.~
+
+@469=~Zlecenie Liedel: Aisha
+
+Rozmowa z Ilen¹ przynios³a kolejn¹, równie spl¹tan¹ opowieœæ o relacjach miêdzy Aish¹ a Amriusem. Na szczêœcie Ilena zgodzi³a siê porozmawiaæ z Amriusem i spróbowaæ sk³oniæ go do cofniêcia zlecenia. Jutro powinienem sprawdziæ, czy jej s³owa odnios³y skutek. Byæ mo¿e to w³aœnie ona oka¿e siê kluczem do zakoñczenia tej sprawy.~
+
+
+          ///////////////////////////////////
+          ///////// Ariosh's Quests /////////
+          ///////////////////////////////////
+
+@509=~Cienie hulanki
+
+Ariosh nie kry³ rozczarowania — i trudno mu siê dziwiæ. Dzisiejsza robota posz³a Ÿle. Stra¿ zareagowa³a szybciej, ni¿ przewidywa³em, i musia³em wycofaæ siê z pustymi rêkami. To bolesna lekcja. Jeœli chcê dalej braæ takie zlecenia, muszê dzia³aæ ostro¿niej i doszlifowaæ swoje umiejêtnoœci. Nastêpnym razem nie mogê sobie pozwoliæ na b³¹d.~
+
+@510=~Cienie hulanki
+
+Zadanie jest jasne. Ariosh poleci³ mi wtopiæ siê w wystawne przyjêcie przed Gospod¹ Weso³y Kuglarz. Celem s¹ dwoje szlachciców — dama i lord — nios¹cy sakiewki przeznaczone na podró¿ na jarmark w Nashkel. Stra¿ jest czujna, wiêc zwyk³a kradzie¿ nie wchodzi w grê. Muszê stworzyæ okazjê i dzia³aæ z rozwag¹.~
+
+@511=~Cienie hulanki
+
+Uda³o mi siê przekonaæ karczmarza, by czêœciej dolewa³ goœciom mocniejszych trunków. Jeœli alkohol zrobi swoje, zamieszanie mo¿e odci¹gn¹æ uwagê stra¿y i stworzyæ szansê do dzia³ania.~
+
+@512=~Cienie hulanki
+
+Przekona³em kurtyzanê, by zajê³a jednego ze stra¿ników. To krótka chwila, ale mo¿e wystarczyæ, by siêgn¹æ po sakiewkê. Muszê dzia³aæ szybko i bez wahania.~
+
+@513=~Cienie hulanki
+
+Sprowokowa³em pijanego awanturnika, doprowadzaj¹c do bójki. W powsta³ym chaosie nadarza siê okazja, by dobraæ siê do jednego z mo¿nych. Z tego, co wiem o damie, mo¿liwe, ¿e sama „zgubi” coœ wartoœciowego.~
+
+@514=~Cienie hulanki
+
+Odda³em Arioshowi jedn¹ sakiewkê. Nie by³ zachwycony, ale rozumia³ realia ulicznej roboty. Nie zawsze da siê zgarn¹æ wszystko. Bêd¹ jeszcze inne okazje.~
+
+@515=~Cienie hulanki
+
+Ariosh by³ wyraŸnie zadowolony, gdy przekaza³em mu obie sakiewki. Kiwn¹³ g³ow¹ z uznaniem — tym razem robota zosta³a wykonana tak, jak nale¿y.~
+
+@516=~Ostrza w mroku
+
+Moim zadaniem jest wyst¹piæ w roli przynêty dla niezale¿nej bandy ³otrzyków, którzy zaczêli grasowaæ na naszym terenie. Po zmroku mam spotkaæ siê z nimi w pó³nocnych ogrodach. Gdy spróbuj¹ mnie napaœæ, bêdê musia³ zdecydowaæ, jak to zakoñczyæ. Kradzie¿e na naszym obszarze nie pozostaj¹ bez odpowiedzi.~
+
+@517=~Ostrza w mroku
+
+Tej nocy cienie by³y œwiadkami brutalnego rozstrzygniêcia. Blackthorn i jego ludzie wybrali opór. Ostrza posz³y w ruch, a fina³ by³ nieunikniony. Ich dzia³alnoœæ w Beregoœcie dobieg³a koñca.~
+
+@518=~Ostrza w mroku
+
+Dziêki ostro¿nym s³owom i odpowiednim argumentom przekona³em Blackthorna i jego kompaniê, by opuœcili miasto i szukali szczêœcia gdzie indziej. Dzielnica odzyska³a spokój — przynajmniej na jakiœ czas.~
+
+@519=~Ostrza w mroku
+
+W nieoczekiwanym obrocie spraw Blackthorn zdecydowa³ siê zwi¹zaæ z Okiem Gorgony. Perspektywa ochrony i wp³ywów gildii najwyraŸniej go przekona³a. Od teraz dzia³a pod naszym sztandarem, a jego umiejêtnoœci mog¹ siê jeszcze przydaæ.~
+
+@520=~Ostrza w mroku
+
+Ariosh by³ zadowolony z przebiegu sprawy. Ulice zosta³y uporz¹dkowane zgodnie z wol¹ Oka Gorgony, a nasze wp³ywy w Beregoœcie znów siê umocni³y.~
+
+@521=~Odzysk w blasku ksiê¿yca
+
+Ariosh zleci³ mi odzyskanie cennego ³upu ukrytego w kilku miejscach na terenie miasta: skrzyni przy po³udniowej fontannie, beczce pod pó³nocnymi ogrodami oraz worku obok kuŸni. Muszê dzia³aæ wy³¹cznie noc¹, cierpliwie i precyzyjnie, unikaj¹c czujnego oka Stra¿y Miejskiej. Jedno potkniêcie mo¿e mnie drogo kosztowaæ.~
+
+@522=~Odzysk w blasku ksiê¿yca
+
+Stra¿ mnie przy³apa³a, lecz zdo³a³em wypl¹taæ siê z sytuacji rozmow¹. To ostrze¿enie — muszê zachowaæ jeszcze wiêksz¹ ostro¿noœæ, jeœli chcê dokoñczyæ zlecenie bez rozg³osu.~
+
+@523=~Odzysk w blasku ksiê¿yca
+
+Zlecenie zosta³o wykonane. £up trafi³ do Ariosha, a on nie kry³ zadowolenia. Noc nie minê³a bez napiêcia, lecz wyszliœmy z niej zwyciêsko. Czas zaj¹æ siê kolejn¹ spraw¹, zanim cienie znów siê porusz¹.~
+
+@524=~Cienie i echa
+
+Ariosh powierzy³ mi nowe zadanie. W gildii dzia³a zdrajca — ktoœ przekazuje informacje Stra¿y Miejskiej. Mam podrzuciæ sfa³szowan¹ notatkê do beczki za P³on¹cym Czarodziejem, a potem noc¹ czekaæ przy po³udniowych fontannach. Ariosh postawi³ sprawê jasno: ¿adnych pó³œrodków. Zdrajca musi zostaæ uciszony.~
+
+@525=~Cienie i echa
+
+Notatka trafi³a we wskazane miejsce. Teraz pozostaje czekaæ. Zniknê na jakiœ czas i wrócê do po³udniowych fontann, gdy ksiê¿yc znajdzie siê wysoko. Noc¹ miasto wydaje siê inne — jakby oddycha³o w³asnym rytmem, pe³nym szeptów i ukrytych spojrzeñ.~
+
+@526=~Cienie i echa
+
+Valera. To imiê nie daje mi spokoju. Okaza³o siê, ¿e to ona by³a zdrajczyni¹ — twarz ledwie znana, jedno z wielu cieni w gildii. W naszym fachu nie ma miejsca na zdradê. To brutalna prawda, lecz w tym fachu tylko ona pozwala przetrwaæ. Tej nocy litoœci nie by³o.~
+
+@527=~Cienie i echa
+
+Ariosh nie próbowa³ ³agodziæ s³ów. „Zosta³y po niej tylko cienie i echa” — powiedzia³. Mia³ racjê. Niedomkniête sprawy bywaj¹ œmiertelnie niebezpieczne. Zrobiliœmy to, co by³o konieczne dla dobra gildii. Beregost jest besti¹: albo nauczysz siê j¹ trzymaæ na wodzy, albo po¿re wszystkich bez wyj¹tku.~
+
+@537=~Cienie podstêpu
+
+Zadanie jest jasne: zlikwidowaæ inspektora. To nie bêdzie taniec w cieniu, lecz cios wymierzony w samo Ÿród³o zagro¿enia. Jego obecnoœæ zagra¿a Oku Gorgony, a moja klinga ma byæ odpowiedzi¹. Muszê dzia³aæ ostro¿nie i uderzyæ we w³aœciwej chwili. Pora¿ka nie wchodzi w grê. Punkt spotkania wyznaczono we wschodniej czêœci miasta, po zmroku — tam, gdzie noc szczelnie otula zau³ki i boczne uliczki.~
+
+@538=~Cienie podstêpu
+
+Ulice Beregostu z ka¿dym dniem pogr¹¿aj¹ siê w coraz g³êbszym mroku. Tej nocy wpad³em w sam œrodek misternie uknutego planu inspektora. Jego metody nie s¹ proste, ale skuteczne. Przynêta le¿a³a martwa u moich stóp — zwyk³y pionek w tej grze. S³owa inspektora wci¹¿ brzmi¹ mi w uszach, przypominaj¹c, ¿e nie wolno go lekcewa¿yæ. Ma silne wp³ywy w Stra¿y, a nasz kret zosta³ zdemaskowany. Pêtla zaciska siê wokó³ Oka Gorgony. Powinienem wróciæ do kryjówki i przygotowaæ siê na to, co nadchodzi.~
+
+@539=~Cienie podstêpu
+
+Inspektor rozegra³ nas jak dzieci. Spotkanie by³o pu³apk¹, której celem by³o ujawnienie naszego cz³owieka w Stra¿y — i plan siê powiód³. To czarny dzieñ dla towarzysza, którego czeka niewyobra¿alny los. Od teraz musimy dzia³aæ ostro¿niej ni¿ kiedykolwiek. Stawka wzros³a. Oko Gorgony nie upadnie bez walki — tego jestem pewien. Odwrotu ju¿ nie ma.~
+
+@540=~Sojusze w cieniu
+
+Ariosh wyznaczy³ mi nowy kierunek — Wrota Baldura i spotkanie z Czarn¹ Lili¹, postaci¹ dobrze znan¹ tamtejszemu pó³œwiatkowi. To osobliwy sojusz, lecz Ariosh zdaje siê darzyæ j¹ pewnym szacunkiem, jakby ³¹czy³a ich dawna historia. Mam zdobyæ informacje o Inspektorze — jednym z najtwardszych ludzi P³on¹cej Piêœci, który sieje zamêt w Beregoœcie. Od tego, czego siê dowiem, mo¿e zale¿eæ przysz³oœæ Oka Gorgony.~
+
+@541=~Sojusze w cieniu
+
+Spotka³em siê z Czarn¹ Lili¹ we Wrotach Baldura. Przekaza³a mi cenne informacje na temat inspektora Branica — ciernia, który od dawna tkwi w naszym boku. Okazuje siê, ¿e ma on s³aboœæ do pewnego typu kobiet. Lilia skierowa³a mnie do Ishani, kurtyzany mog¹cej odegraæ kluczow¹ rolê w ca³ej sprawie. Wspomnia³a te¿ o rzadkiej whisky z Wysp Moonshae, do której Inspektor ma szczególne zami³owanie. Trop jest jasny. Czas dzia³aæ.~
+
+@542=~Sojusze w cieniu
+
+Uda³o mi siê odnaleŸæ Ishani — ambitn¹, m³od¹ kurtyzanê o wyrafinowanych gustach. Zgodzi³a siê pomóc w rozprawieniu siê z inspektorem Branicem, lecz nie bez zap³aty. Ishani pragnie naszyjnika noszonego przez Lady Eudikê, przyjació³kê Brilli Srebrnej Tarczy. Zadanie bêdzie niebezpieczne, zwa¿ywszy na siln¹ ochronê. Jeœli jednak zdobêdê naszyjnik, Ishani u¿yczy swoich talentów w naszej operacji przeciwko Inspektorowi. To ryzyko, którego nie da siê unikn¹æ.~
+
+@543=~Sojusze w cieniu
+
+Ishani by³a wyraŸnie poruszona, gdy zobaczy³a Kaskadê Blasku Ksiê¿yca. Bi¿uteria ca³kowicie j¹ oczarowa³a — zarówno piêknem, jak i kunsztem wykonania. Nietrudno dostrzec, ¿e naszyjnik ma dla niej szczególne znaczenie. To tylko umacnia nasz plan. Z jej urokiem i tym klejnotem Inspektor nie bêdzie mia³ ³atwego zadania.~
+
+@544=~Sojusze w cieniu
+
+Uda³o mi siê zdobyæ butelkê rzadkiej whisky z Wysp Moonshae w tawernie Jopalina. To w³aœnie ten trunek jest ulubionym napojem Inspektora i pos³u¿y nam jako przynêta. Ka¿dy element uk³adanki jest ju¿ na swoim miejscu. Jesteœmy o krok bli¿ej wyrwania Beregostu spod jego wp³ywów.~
+
+@545=~Sojusze w cieniu
+
+Plan Ariosha w Weso³ym Kuglarzu ruszy³ w ¿ycie. Mam przekazaæ whisky karczmarzowi i poleciæ mu wezwaæ Inspektora. Ishani odegra rolê zdesperowanej kobiety, twierdz¹c, ¿e by³a zmuszana do pracy dla gangu i teraz chce siê uwolniæ. Dziêki urokowi i sprytowi spróbuje odci¹gn¹æ uwagê Inspektora i sk³oniæ go do wypicia zatrutej whisky. Gdy tylko weŸmie ³yk, niewykrywalna toksyna zrobi swoje. Muszê zachowaæ czujnoœæ i byæ gotów zareagowaæ, jeœli coœ pójdzie nie tak. To nasza jedyna szansa.~
+
+@546=~Sojusze w cieniu
+
+Ariosh wrêczy³ mi urz¹dzenie zapalaj¹ce — plan awaryjny na wypadek, gdyby sytuacja w Weso³ym Kuglarzu wymknê³a siê spod kontroli. Podkreœli³, jak powa¿ne mog¹ byæ konsekwencje: straty uboczne bêd¹ ogromne, a nikt w pobli¿u mo¿e nie prze¿yæ. Urz¹dzenie ma pos³u¿yæ do zastraszenia karczmarza lub zniszczenia lokalu, jeœli Inspektor nie po³knie przynêty. To ponure przypomnienie, jak wysok¹ stawkê postawiliœmy.~
+
+@547=~Sojusze w cieniu
+
+Plan rozegra³ siê z niebezpieczn¹ precyzj¹. Inspektor siêgn¹³ po zatruty kielich, nieœwiadomy losu, który w³aœnie przypieczêtowa³. Wkrótce jego si³y opad³y, a on sam znalaz³ swój koniec. Nasz uœcisk na Beregoœcie siê zacieœnia, a Oko Gorgony wychodzi z tego starcia wzmocnione. Dowódczyni z pewnoœci¹ odpowie, lecz jesteœmy gotowi na nadci¹gaj¹ce konsekwencje.~
+
+@548=~Sojusze w cieniu
+
+Nie potrafi³em trzymaæ siê planu. Gniew i ¿¹dza zemsty wziê³y górê. Stan¹³em z Inspektorem twarz¹ w twarz, a walka by³a brutalna i krwawa. On oraz towarzysz¹cy mu stra¿nicy polegli z mojej rêki. Pierwotny plan leg³ w gruzach, a Weso³y Kuglarz na zawsze zapamiêta tê noc. Muszê wróciæ do Ariosha i z³o¿yæ raport — bez wzglêdu na konsekwencje.~
+
+@549=~Sojusze w cieniu
+
+Eksplozja wstrz¹snê³a Weso³ym Kuglarzem, zamieniaj¹c go w piek³o ognia i zniszczenia. Inspektor, Ishani oraz wielu niewinnych ludzi zginê³o w p³omieniach. Plan zakoñczy³ siê sukcesem — lecz za straszliw¹ cenê. Stoj¹c poœród dymi¹cych ruin, zrozumia³em, ¿e byæ mo¿e posun¹³em siê za daleko.~
+
+@550=~Sojusze w cieniu
+
+Plan w Weso³ym Kuglarzu przybra³ nieoczekiwany obrót. Inspektor przejrza³ nasz¹ sztuczkê, twierdz¹c, ¿e ma „oczy i uszy wszêdzie”. Wybuch³a desperacka, brutalna bójka. Ostatecznie to ja wyszed³em z niej zwyciêsko. Inspektor le¿y martwy, a Beregost otrzyma³ ponure przypomnienie, kto naprawdê poci¹ga za sznurki. Teraz muszê wróciæ do Ariosha i ustaliæ kolejne kroki.~
+
+@551=~Sojusze w cieniu
+
+Po naszej operacji Inspektor nie ¿yje — to wyraŸny sygna³ determinacji Oka Gorgony. Stra¿, dot¹d zwarta, pogr¹¿a siê w wewnêtrznych sporach i niepewnoœci, gdy nasz wp³yw zaczyna zapuszczaæ korzenie. Dowódczyni Seraphina Bia³odrzew pozostaje ostatni¹ przeszkod¹ na drodze do pe³ni w³adzy. Beregost znalaz³ siê na krawêdzi zmian.~
+
+
+
+@552=~Cienie Walkirii
+
+Ariosh wyznaczy³ mi kolejne zadanie — takie, które nawet w mrocznych korytarzach Oka Gorgony budzi respekt. BliŸniaczki Walkirie, Clare i Theresa, sta³y siê powa¿n¹ przeszkod¹. W³adaj¹ bosk¹ moc¹, a ich wp³ywy siêgaj¹ g³êboko w miejskie podziemie. Ich eliminacja wymaga nie tylko si³y, lecz tak¿e finezji i absolutnej dyskrecji. Jedno potkniêcie mo¿e naraziæ gildiê na niewyobra¿alne ryzyko.~
+
+@553=~Cienie Walkirii
+
+Œmieræ Clare nie oby³a siê bez konsekwencji. Element zaskoczenia zosta³ utracony — to lekcja, któr¹ zapamiêtam na d³ugo. W tej grze nie ma miejsca na niedoskona³oœæ. Ka¿dy b³¹d mo¿e oznaczaæ koniec. Jeœli chcê poruszaæ siê w cieniu bez œladu, muszê wyostrzyæ swoje umiejêtnoœci do granic mo¿liwoœci.~
+
+@554=~Cienie Walkirii
+
+¯ycie Theresy zgas³o, lecz nie w ciszy. Walka by³a zaciek³a, a jej szorstka powierzchownoœæ skrywa³a si³ê, której siê nie spodziewa³em. Misja zakoñczy³a siê sukcesem, a ona spoczywa teraz w milczeniu. Ariosh mo¿e odczuwaæ satysfakcjê, lecz w naszym œwiecie jedyn¹ walut¹ jest doskona³oœæ. Nie ma miejsca na b³êdy.~
+
+@555=~Cienie Walkirii
+
+BliŸniaczki, niegdyœ postrach ulic, zosta³y pokonane. Zadowolenie Ariosha jest wyraŸne, lecz ma racjê — przed nami jeszcze gêstsze mroki. Stra¿ Miejska chwieje siê na krawêdzi chaosu, a my jesteœmy architektami tego upadku. Wieœci o œmierci Walkirii kr¹¿¹ ju¿ po zau³kach. Oko Gorgony po raz kolejny dowiod³o swojej potêgi.~
+
+
+@556=~Podzielona lojalnoœæ
+
+Szeregi Stra¿y pêk³y. Skrytobójstwa jej dowódców rozpali³y bunt i chaos. Ulice Beregostu sta³y siê aren¹ krwawej walki. Baldwin i Ariosh dostrzegli w tym zamêcie szansê. Œwi¹tynia — ostatni azyl Dowódczyni Bia³odrzew — sta³a siê naszym celem. To tam splot¹ siê losy Stra¿y Miejskiej i Oka Gorgony. Chwila rozrachunku jest blisko.~
+
+@557=~Podzielona lojalnoœæ
+
+Bitwa by³a za¿arta, a Œwi¹tynia Lathandera nosi teraz jej blizny. Dowódczyni Seraphina Bia³odrzew, niegdyœ niez³omna obroñczyni Beregostu, le¿y pokonana u moich stóp wraz ze swoimi Rycerzami Templariuszami. Z jej upadkiem Oko Gorgony mo¿e umocniæ swój uœcisk na mieœcie. Echo tej walki na d³ugo pozostanie w poœwiêconych murach œwi¹tyni.~
+
+@558=~Podzielona lojalnoœæ
+
+Tej nocy stojê na szczycie cieni. Stra¿ Miejska jest rozbita, Oko Gorgony umacnia swoje panowanie, a Œwi¹tynia Lathandera by³a œwiadkiem upadku Dowódczyni Seraphiny Bia³odrzew. Zaufanie Ariosha nie by³o chybione. Jestem prawdziwym z³odziejem, wykutym w tyglu ulicznych intryg i ryzykownych decyzji. Ulice nale¿¹ do mnie — a miasto zapamiêta imiê <CHARNAME>, s³ugê Oka Gorgony.~
+
+@610=~Sprawa fa³szywych monet
+
+Gilbald poinformowa³ mnie o niepokoj¹cej sprawie: do obiegu w Oku Gorgony mog³o trafiæ fa³szywe z³oto. Zleci³ mi zbadanie tej kwestii. Na pocz¹tek powinienem porozmawiaæ z jego hazardzistami i spróbowaæ odtworzyæ wydarzenia tamtej nocy. Cienie mog¹ skrywaæ odpowiedzi — moim zadaniem jest je wydobyæ.~
+
+@611=~Sprawa fa³szywych monet
+
+Hazardziœci zwrócili uwagê na trzy osoby, które pojawi³y siê ostatniej nocy. Jednym z nich by³ Xevec — ¿ebrak z Beregostu, wyraŸnie niepasuj¹cy do tego miejsca. Drug¹ by³a skromnie ubrana kobieta, która jednak porusza³a siê z pewn¹ godnoœci¹. Wspomina³a o córce imieniem Sam, choæ dziewczynki nie by³o z ni¹. Trzecim by³ Hugo, jednorêki krasnolud, którego obecnoœæ wzbudzi³a ciekawoœæ obserwatorów. Hazardziœci zasugerowali, bym zacz¹³ od rozmowy z Meredi¹ — szczególnie w sprawie Xeveca.~
+
+@612=~Sprawa fa³szywych monet
+
+Meredia potwierdzi³a, ¿e Xevec rzeczywiœcie p³aci³ w jej przybytku fa³szywym z³otem. Opisa³a go jako osobê ma³o bystr¹, ³atwo wpl¹tuj¹c¹ siê w ró¿ne „interesy”. Wed³ug niej Xevec jest przekonany, ¿e ostatnie zlecenie zapewni mu bogactwo — otrzyma³ nawet zaliczkê na znak zaufania. Powinienem znaleŸæ go gdzieœ na ulicach Beregostu.~
+
+@613=~Sprawa fa³szywych monet
+
+Odnalaz³em Xeveca. Wyjaœni³, ¿e nieœwiadomie u¿ywa³ fa³szywych monet — dosta³ je jako zap³atê za zlecenie zabójstwa m³odej kobiety imieniem Sam, mieszkaj¹cej w Nashkel. Wspomnia³ te¿, ¿e kobieta, która go wynajê³a, sprawia³a wra¿enie blisko zwi¹zanej z Sam i prawdopodobnie mieszka³a w tej samej okolicy.~
+
+@614=~Sprawa fa³szywych monet
+
+Po potwierdzeniu udzia³u Xeveca w obrocie fa³szywym z³otem postanowi³em go zlikwidowaæ. Teraz powinienem wróciæ do Gilbalda i zdaæ mu relacjê.~
+
+@615=~Sprawa fa³szywych monet
+
+Gilbald sowicie wynagrodzi³ mnie za rozprawienie siê z Xevecem. Byæ mo¿e kry³o siê za tym coœ wiêcej, lecz uzna³em, ¿e najlepiej bêdzie daæ przyk³ad. Sprawa wyda³a mi siê prosta i nie widzia³em potrzeby dalszego dr¹¿enia.~
+
+@616=~Sprawa fa³szywych monet
+
+Wygl¹da na to, ¿e Xevec mówi³ prawdê. Zosta³ wynajêty przez pokojówkê Samanthy. Zaj¹³em siê ni¹ osobiœcie i zakoñczy³em jej ¿ycie za udzia³ w spisku. Teraz pora jeszcze raz odwiedziæ Xeveca.~
+
+@617=~Sprawa fa³szywych monet
+
+Wygl¹da na to, ¿e Xevec mówi³ prawdê. Zosta³ wynajêty przez pokojówkê Samanthy. Postanowi³em jej nie zabijaæ, lecz powinienem wróciæ do Xeveca i wydobyæ z niego wiêcej informacji.~
+
+@618=~Sprawa fa³szywych monet
+
+Po rozmowie z Xevecem zdecydowa³em siê darowaæ mu ¿ycie. Teraz muszê przekazaæ Gilbaldowi wszystkie ustalenia. Ostateczna decyzja nale¿y do niego.~
+
+@619=~Sprawa fa³szywych monet
+
+Po rozwi¹zaniu sprawy Xeveca i pokojówki Gilbald wyrazi³ wdziêcznoœæ i wrêczy³ mi pokaŸn¹ nagrodê. S¹ chwile, które przypominaj¹ mi, dlaczego wybra³em to zajêcie — satysfakcja z domykania spraw i zaprowadzania porz¹dku, nawet w pó³œwiatku.~
+
+@620=~Sprawa fa³szywych monet
+
+Matka Samanthy zwierzy³a mi siê, ¿e pokojówka ukrad³a nie tylko naszyjnik — podejrzewa, ¿e zniknê³o wiêcej kosztownoœci. Co dziwne, wiêksz¹ troskê okazywa³a bi¿uterii ni¿ bezpieczeñstwu w³asnej córki. Miêdzy pokojówk¹ a Samanth¹ wyczuwalne by³o napiêcie. Ta sprawa jest bardziej z³o¿ona, ni¿ siê pocz¹tkowo wydawa³o. Byæ mo¿e klucz do prawdy tkwi w³aœnie w samej pokojówce.~
+
+@710=~Eskorta eskorty
+
+Meredia jest powa¿nie zaniepokojona losem jednej ze swoich dziewcz¹t — Ileny, która nie wróci³a z nocnej pracy. Z jej relacji wynika, ¿e Ilena zatrzyma³a siê u mê¿czyzny imieniem Isley, w domu s¹siaduj¹cym z KuŸni¹ Thunderhammera w Beregost. Sprawa wygl¹da Ÿle i nie mo¿na jej lekcewa¿yæ.~
+
+@711=~Eskorta eskorty
+
+W domu, w którym przebywa³a Ilena, zasta³em makabryczny widok. ¯ona Isleya kona³a na pod³odze. Z trudem wyszepta³a, ¿e to jej m¹¿ by³ sprawc¹, po czym zmar³a. W œrodku znalaz³em czerwony skrawek materia³u oraz zakrwawiony he³m. Wszystko wskazuje na to, ¿e dosz³o tu do brutalnej tragedii. Muszê wróciæ do kryjówki Oka Gorgony i powiadomiæ Merediê.~
+
+@712=~Eskorta eskorty
+
+Meredia podejrzewa, ¿e Isley mia³ wojskow¹ przesz³oœæ. Wskazuj¹ na to znaleziony he³m z pióropuszem oraz czerwony fragment tkaniny, przypominaj¹cy element munduru. Jeœli uda mi siê zidentyfikowaæ jego pochodzenie, byæ mo¿e doprowadzi mnie to do Isleya i pozwoli odkryæ prawdê.~
+
+@713=~Eskorta eskorty
+
+Stan¹³em twarz¹ w twarz z Isleyem, lecz nie zdo³a³em ocaliæ Ileny. Zginê³a z jego r¹k. To gorzka pora¿ka. Teraz muszê przekazaæ Meredii tê straszn¹ wiadomoœæ.~
+
+@714=~Eskorta eskorty
+
+Pokona³em Isleya i zdo³a³em uratowaæ Ilenê. Jest ju¿ w drodze powrotnej do Beregostu. Ja równie¿ wracam, by poinformowaæ Merediê, ¿e jej obawy nie spe³ni³y siê w najgorszy mo¿liwy sposób.~
+
+@715=~Eskorta eskorty
+
+Kurtyzany by³y szczerze wdziêczne za ocalenie Ileny. Zrzuci³y siê i wrêczy³y mi nagrodê. To rzadki moment, gdy w tym fachu wdziêcznoœæ okazuje siê czymœ wiêcej ni¿ pustym s³owem.~
+
+@716=~Eskorta eskorty
+
+Meredia przyjê³a wiadomoœæ o œmierci Ileny w milczeniu, z wyraŸnym smutkiem. Trudno nie czuæ ciê¿aru odpowiedzialnoœci za to, co siê sta³o. Nie ka¿d¹ sprawê da siê zakoñczyæ dobrze.~
+
+@810=~Arena
+
+Arena, o której opowiada³ Diomedes, to miejsce pojedynków, gdzie wojownicy mierz¹ siê ze sob¹, by doskonaliæ umiejêtnoœci. Nie s¹ to walki na œmieræ i ¿ycie, lecz próba si³y, refleksu i opanowania. Zanim stanê do pierwszego starcia, Dio zaleci³, abym zapozna³ siê z zasadami i rytmem tego miejsca. Rozmowy z innymi wojownikami mog¹ daæ mi przewagê. W Arenie sama klinga nie wystarczy — licz¹ siê tak¿e cierpliwoœæ i wiedza.~
+
+@811=~Arena
+
+Moim pierwszym przeciwnikiem by³ Khalid, doœwiadczony mnich, którego si³a bra³a siê z dyscypliny i lat treningu. Pojedynek by³ wymagaj¹cy, lecz ostatecznie los mi sprzyja³. Zwyciêstwo i sakiewka z³ota potwierdzi³y mój postêp. Ka¿da walka w Arenie uczy mnie czegoœ nowego — o przeciwnikach, o sobie samym i o sztuce walki.~
+
+@812=~Arena
+
+Starcie z Gromem by³o brutalne i bezlitosne. Jego si³a i determinacja wype³nia³y ca³¹ arenê. Mimo to przetrwa³em napór i przechyli³em szalê zwyciêstwa na swoj¹ stronê. Ta walka uœwiadomi³a mi, ¿e to dopiero pocz¹tek. Jeœli chcê tu przetrwaæ, muszê nieustannie siê doskonaliæ.~
+
+@813=~Arena
+
+Pojedynek z Lyri¹ okaza³ siê zupe³nie inny. Szybka, sprytna i pe³na podstêpów, zmusza³a mnie do ci¹g³ej czujnoœci. W kluczowym momencie uda³o mi siê j¹ przechytrzyæ i odnieœæ zwyciêstwo. Arena nie wybacza b³êdów, lecz ka¿da walka czyni mnie lepszym wojownikiem. Dio uczciwie dzieli zyski, a z³oto siê zgadza.~
+
+@814=~Arena
+
+Serra Prêdki Wiatr, elfia ³uczniczka z Silverymoon, by³a przeciwniczk¹ pe³n¹ gracji i œmiercionoœnej precyzji. Jej ruchy przypomina³y taniec, a ka¿dy strza³ by³ wymierzony z zabójcz¹ dok³adnoœci¹. Pojedynek wymaga³ pe³nego skupienia, lecz ostatecznie to ja opuœci³em arenê jako zwyciêzca. Serra na d³ugo pozostanie w mojej pamiêci jako jedna z najbardziej wymagaj¹cych rywalek.~
+
+@815=~Arena
+
+Dokona³em dziœ czegoœ, co wczeœniej wydawa³o siê niemo¿liwe. Stan¹³em naprzeciw Rorana, panuj¹cego mistrza Areny, i wyszed³em z pojedynku zwyciêsko. T³um szala³, a adrenalina wci¹¿ pulsuje mi w ¿y³ach. Teraz to mnie nazywaj¹ mistrzem, choæ wiem, ¿e ten tytu³ trzeba bêdzie nieustannie potwierdzaæ.~
+
+@816=~Arena
+
+Diomedes wspomnia³ o Isli — legendzie Areny, wojowniczce, która widzia³a i przetrwa³a wszystko. Podobno wycofa³a siê z walk, lecz jeœli mam naprawdê zas³u¿yæ na miano mistrza, muszê j¹ odnaleŸæ i przekonaæ do powrotu. To najwiêksze wyzwanie z dotychczasowych. Muszê trenowaæ, przygotowaæ siê i stan¹æ z ni¹ twarz¹ w twarz.~
