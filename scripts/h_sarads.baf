@@ -1,0 +1,22 @@
+IF
+         See([PC])
+	 Global("h_Saradin","GLOBAL",3)
+THEN
+	 RESPONSE #100
+                  MoveToPoint([471.403])
+		  StartDialog("h_saradd",[PC])
+END
+
+IF
+         GlobalGT("h_BetrayBaldwin","GLOBAL",0)
+THEN
+	 RESPONSE #100
+                  DestroySelf()
+END
+
+IF
+         Global("h_RefuseGuildOffer","GLOBAL",1)
+THEN
+	 RESPONSE #100
+                  DestroySelf()
+END

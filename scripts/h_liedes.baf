@@ -1,0 +1,33 @@
+IF
+	Global("h_ShadowWar","GLOBAL",9)
+	See([ENEMY])
+THEN
+	RESPONSE #100
+	         SmallWait(3)
+	         Attack([ENEMY])
+END
+
+IF
+         Global("h_WatchCutscene","GLOBAL",1)
+THEN
+         RESPONSE #100
+                  SmallWait(1)
+                  StartDialog("h_lieded",[PC])
+END
+
+IF
+	Global("h_HelpCityWatch","GLOBAL",1)
+	!Allegiance(Myself,ENEMY)
+THEN
+	RESPONSE #100
+		 Enemy()
+END
+/*
+IF
+	Global("h_LiedelParty","GLOBAL",1)
+	!InParty("h_liedec")
+THEN
+	RESPONSE #100
+		 Dialogue([PC])
+END
+*/

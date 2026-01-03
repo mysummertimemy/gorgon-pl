@@ -1,0 +1,14 @@
+IF
+    True()
+THEN
+    RESPONSE #100
+        CutSceneId(LastTalkedToBy())
+        FadeToColor([20.0],0)
+        Wait(2)
+        LeaveAreaLUAPanic("%EBaldursGate_ThievesGuild%","",[186.267],N)
+        LeaveAreaLUA("%EBaldursGate_ThievesGuild%","",[186.267],N)
+        FadeFromColor([20.0],0)
+        Wait(2)
+        EndCutSceneMode()
+END
+

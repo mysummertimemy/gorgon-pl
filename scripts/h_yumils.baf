@@ -1,0 +1,15 @@
+IF
+	See([PC])
+	NumberOfTimesTalkedTo(0)
+THEN
+	RESPONSE #100
+		 MoveToObject(Player1)
+		 StartDialog("h_yumild",[PC])
+END
+
+IF
+	Global("h_BaldwinQuest","GLOBAL",1)
+THEN
+	RESPONSE #100
+		 DestroySelf()
+END

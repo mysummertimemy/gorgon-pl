@@ -1,0 +1,39 @@
+IF
+        Global("h_SpawnRavenscar","GLOBAL",0)
+        Global("h_KilledRavenscar","GLOBAL",0)
+        Global("h_Ravenscar","GLOBAL",1)
+        Global("NarlenMove","GLOBAL",9)
+THEN
+        RESPONSE #100
+                 CreateCreature("alatos",[580.192],SE)
+                 SetGlobal("h_SpawnRavenscar","GLOBAL",1)
+                 Continue()
+END
+
+IF
+        Global("h_SpawnThalia","GLOBAL",0)
+        !Exists("h_thalic")
+
+THEN
+        RESPONSE #100
+                 CreateCreature("h_thalic",[193.230],S)
+                 SetGlobal("h_SpawnThalia","GLOBAL",1)
+                 Continue()
+END
+
+IF
+        Global("h_TravelToBM","GLOBAL",1)
+THEN
+        RESPONSE #100
+                 ActionOverride("h_thalic",EscapeArea())
+                 Continue()
+END
+
+IF
+         Global("h_DanikaKickedOut","GLOBAL",1)
+         Global("h_DanikaGoToAlatos","GLOBAL",1)
+THEN
+         RESPONSE #100
+                  CreateCreature("h_danika",[435.377],S)
+                  SetGlobal("h_DanikaKickedOut","GLOBAL",2)
+END
